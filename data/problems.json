@@ -1,0 +1,1550 @@
+{
+    "1": {
+        "content": "Let $S=\\left\\{ 1,2,\\cdots 2024 \\right\\}$, if the set of any $n$ pairwise prime numbers in $S$ has at least one prime number, the minimum value of $n$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "2": {
+        "content": "Let $A_l = (4l+1)(4l+2) \\cdots \\left(4(5^5+1)l\\right)$. Given a positive integer $l$ such that $5^{25l} \\mid A_l$ and $5^{25l+1} \\nmid A_l$, the minimum value of $l$ satisfying these conditions is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "3": {
+        "content": "Sasha collects coins and stickers, with fewer coins than stickers, but at least 1 coin. Sasha chooses a positive number $t > 1$ (not necessarily an integer). If he increases the number of coins by a factor of $t$, then he will have a total of 100 items in his collection. If he increases the number of stickers by a factor of $t$, then he will have a total of 101 items in his collection. If Sasha originally had more than 50 stickers, then he originally had \\underline{\\hspace{2cm}} stickers.",
+        "answer": ""
+    },
+    "4": {
+        "content": "Let $n$ be a positive integer. An integer $k$ is called a \"fan\" of $n$ if and only if $0 \\leqslant k \\leqslant n-1$ and there exist integers $x$, $y$, $z \\in \\mathbf{Z}$ such that $x^2+y^2+z^2 \\equiv 0 (\\mathrm{mod} \\, n)$ and $xyz \\equiv k (\\mathrm{mod} \\, n)$. Let $f(n)$ denote the number of fans of $n$. Then f(2020) = \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "5": {
+        "content": "Four positive integers satisfy $a^3=b^2$, $c^5=d^4$, and $c-a=77$. Then, $d-b=$ \n\t\\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "6": {
+        "content": "The smallest $n$ such that both $3n+1$ and $5n+1$ are perfect squares is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "7": {
+        "content": "Find the largest positive integer $n$ such that the product of the numbers $n, n+1, n+2,\\cdots, n+100$ is divisible by the square of one of these numbers.",
+        "answer": ""
+    },
+    "8": {
+        "content": "Given a positive integer $x$ with $m$ digits in its decimal representation, and let $x^3$ have $n$ digits. Which of the following options cannot be the value of $m + n$?\n\n\\begin{align*}\n\t\\text{A)}\\ & 2022 &\n\t\\text{B)}\\ & 2023\\\\\n\t\\text{C)}\\ &  2024 &\n\t\\text{D)}\\ & 2025\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "9": {
+        "content": "Positive integers $a$, $b$, and $c$ satisfy $a > b > c > 1$, and also satisfy $abc \\mid (ab - 1)(bc - 1)(ca - 1)$. There are \\underline{\\hspace{2cm}} possible sets of $(a, b, c)$.",
+        "answer": ""
+    },
+    "10": {
+        "content": "There are \\underline{\\hspace{2cm}} sets of positive integers $a \\leq b \\leq c$ such that $ab - c$, $bc - a$, and $ca - b$ are all powers of 2.",
+        "answer": ""
+    },
+    "11": {
+        "content": "Define the function $f(x) =x[x]$, where $[x]$ represents the largest integer not exceeding $x$. For example, $[-2.5] = -3$.For a positive integer $n$, let $a_n$ be the number of elements in the range set of $f(x)$ when $x \\in [0,n)$. Then the minimum value of $\\frac{a_n + 90}{n}$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "12": {
+        "content": "If a positive integer's sum of all its positive divisors is twice the number itself, then it is called a perfect number. If a positive integer $n$ satisfies both $n-1$ and $\\frac{n(n+1)}{2}$ being perfect numbers, then $n=$ \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "13": {
+        "content": "Try to find all prime numbers with the shape $p^p+1$($p$ is a natural number) that have no more than 19 digits and what the sum of these prime numbers is.",
+        "answer": ""
+    },
+    "14": {
+        "content": "For any positive integer $q_0$, consider a sequence $q_1,q_2,\\cdots,q_n$ defined by $q_i=\\left(q_{i-1}-1\\right)^3+3\\left(i=1,2,\\cdots,n\\right)$. If every $q_i\\left(i=1,2,\\cdots,n\\right)$ is a power of prime, then the maximum possible value of $n$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "15": {
+        "content": "The first digit before the decimal point in the decimal representation of $(\\sqrt{2} + \\sqrt{5})^{2000}$ is \\underline{\\hspace{2cm}} and after the decimal point is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "16": {
+        "content": "$N$ is a 5-digit number composed of 5 different non-zero digits, and $N$ is equal to the sum of all three digits formed by 3 different digits in these 5 digits, then the sum of all such 5-digit $N$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "17": {
+        "content": "If the last three digits of a positive integer $n$ cubed are 888, then the minimum value of $n$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "18": {
+        "content": "$a $, $b$ are both two-digit positive integers, $100a+b$ and $201a+b$ are both four-digit perfect squares, then $a+b=$ \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "19": {
+        "content": "For a positive integer $n$, which can be uniquely expressed as the sum of the squares of 5 or fewer positive integers (where two expressions with different summation orders are considered the same, such as $3^2+4^2$ and $4^2+3^2$ are considered the same expression of 25), then the sum of all the $n$ that satisfy the conditions is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "20": {
+        "content": "Given that the product of the digits of a natural number $x$ is equal to $44x-86868$, and the sum of its digits is a perfect cube. Then the sum of all such natural numbers $x$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "21": {
+        "content": "Given \\(a\\) is a prime number and \\(b\\) is a positive integer such that \\(9(2a+b)^2=509(4a+511b)\\), we need to find the values of \\(a\\) and \\(b\\).",
+        "answer": ""
+    },
+    "22": {
+        "content": "Let $\\varphi(n)$ denote the number of natural numbers coprime to and less than $n$. Then, when $\\varphi(pq)=3p+q$, what is the sum of $p$ and $q$?",
+        "answer": ""
+    },
+    "23": {
+        "content": "Consider the sequence $\\{S_n\\}$ constructed as follows: $S_1=\\{1,1\\}$, $S_2=\\{1,2,1\\}$, $S_3=\\{1,3,2,3,1\\}$, and in general, if $S_k=\\{a_1,a_2,\\cdots,a_n\\}$, then $S_{k+1}=\\{a_1,a_1+a_2,a_2,a_2+a_3,\\cdots,a_{n-1}+a_n,a_n\\}$. What is the number of terms equal to $1988$ in $S_{1938}$?",
+        "answer": ""
+    },
+    "24": {
+        "content": "For a natural number $n$, let $S(n)$ denote the sum of its digits. For example, $S(611)=6+1+1=8$. Let $a$, $b$, and $c$ be three-digit numbers such that $a+b+c=2005$, and let $M$ be the maximum value of $S(a)+S(b)+S(c)$. How many sets $(a,b,c)$ satisfy $S(a)+S(b)+S(c)=M$?",
+        "answer": ""
+    },
+    "25": {
+        "content": "For a natural number $n$, let $K(n,0)=\\varnothing$. For any non-negative integers $m$ and $n$, define $K(n,m+1)$ as the set of elements $k$ such that $1\\leq k\\leq n$ and $K(k,m)\\cap K(n-k,m)=\\varnothing$, then the set $K(2004,2004)$ contains \\underline{\\hspace{2cm}} elements.",
+        "answer": ""
+    },
+    "26": {
+        "content": "Let $T=\\{0,1,2,3,4,5,6\\}$ and $M=\\left\\{\\left.\\frac{a_1}{7}+\\frac{a_2}{7^2}+\\frac{a_3}{7^3}+\\frac{a_4}{7^4}\\right|a_i\\in T,i=1,2,3,4\\right\\}$. If the elements of $M$ are arranged in descending order, then the 2005th number is \\underline{\\hspace{2cm}}.\n\\begin{align*}\n\\text{A)}\\ & \\frac{5}{7}+\\frac{5}{7^2}+\\frac{6}{7^3}+\\frac{3}{7^4}&\n\\text{B)}\\ & \\frac{5}{7}+\\frac{5}{7^2}+\\frac{6}{7^3}+\\frac{2}{7^4}\\\\\n\\text{C)}\\ & \\frac{1}{7}+\\frac{1}{7^2}+\\frac{0}{7^3}+\\frac{4}{7^4}&\n\\text{D)}\\ & \\frac{1}{7}+\\frac{1}{7^2}+\\frac{0}{7^3}+\\frac{3}{7^4} \\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "27": {
+        "content": "Mutually prime positive integers $p_n, q_n$ satisfy $\\frac{P_n}{q_n}=1+\\frac12+\\frac13+\\cdots+\\frac1n$. The sum of all positive integers $n$ such that $3|p_n$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "28": {
+        "content": "Given $x$ and $y$ are prime numbers. The sum of the values of $y$ in the solutions of the indeterminate equation $x^2-y^2=xy^2-19$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "29": {
+        "content": "The number of non-zero integer pairs $(a,b)$ for which $\\left(a^3+b\\right)\\left(a+b^3\\right)=(a+b)^4$ holds is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "30": {
+        "content": "If the sum of the digits of a natural number $\\alpha$ equals 7, then $a$ is called an \"auspicious number\". Arrange all \"auspicious numbers\" in ascending order $a_1,a_2,a_3,\\cdots$, if $a_n=2005$, then $a_{5n}$=\\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "31": {
+        "content": "The number of integers $n$ in the interval $1\\leq n\\leq10^6$ such that the equation $n=x^y$ has non-negative integer solutions $x,y$, and $x\\neq n$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "32": {
+        "content": "Let $p$ be a real number. If all three roots of the cubic equation $5x^3 - 5(p+1)x^2 + (71p - 1)x + 1 = 66p$ are natural numbers, then the sum of all possible values of $p$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "33": {
+        "content": "The number of triples of positive integers $(a, b, c)$ satisfying $a^2 + b^2 + c^2 = 2005$ and $a \\leq b \\leq c$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "34": {
+        "content": "The maximum positive integer $k$ that satisfies $1991^k \\mid 1990^{19911992} + 1992^{19911990}$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "35": {
+        "content": "Let $a$ and $b$ be positive integers such that $79 \\mid (a + 77b)$ and $77 \\mid (a + 79b)$. Then the smallest possible value of the sum $a + b$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "36": {
+        "content": "Let $a_i, b_i \\ (i=1,2,\\ldots,n)$ be rational numbers such that for any real number $x$, we have $x^2 + x + 4 = \\sum_{i=1}^{n} (a_{i}x + b_{i})^{2}$. Then the minimum possible value of $n$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "37": {
+        "content": "Let $\\alpha$ and $\\beta$ be the two roots of the equation $x^2 - x - 1 = 0$. Define $\\alpha_n = \\frac{\\alpha^n - \\beta^n}{\\alpha - \\beta}$ for $n = 1, 2, \\ldots$. For some positive integers $a$ and $b$, with $a < b$, if for any positive integer $n$, $b$ divides $a_n - 2na^n$, then the sum of all such positive integers $b$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "38": {
+        "content": "Let $n$ be a natural number greater than $3$ such that $1+C_n^1+C_n^2+C_n^3$ divides $2^{2000}$. Then, the sum of all such $n$ satisfying this condition is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "39": {
+        "content": "In the decimal representation, the product of the digits of $k$ equals $\\frac{25}{8}k-211$. Then the sum of all positive integers $k$ satisfying this condition is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "40": {
+        "content": "Let $n$ be an integer, and let $p(n)$ denote the product of its digits (in decimal representation). Then the sum of all $n$ such that $10\\:p(n)=n^{2}+4n-2005$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "41": {
+        "content": "There are some positive integers with more than two digits, such that each pair of adjacent digits forms a perfect square. Then the sum of all positive integers satisfying the above conditions is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "42": {
+        "content": "Let $\\alpha$ be an integer, and $|\\alpha|\\leq2005$. The number of values of $\\alpha$ that make the system of equations $\\begin{cases}x^{2}=y+\\alpha,\\\\y^{2}=x+\\alpha\\end{cases}$ have integer solutions is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "43": {
+        "content": "Divide the set $S=\\{1,2,\\cdots,2006\\}$ into two disjoint subsets $A$ and $B$ such that:\n\n(1) $B \\in A$;\n\n(2) If $a\\in A$ and $b\\in B$ with $a+b\\in S$, then $a+b\\in B$;\n\n(3) If $a\\in A$, $b\\in B$, and $a b\\in S$, then $a b\\in A$.\n\nThe number of elements in set $A$ is \\underline{\\hspace{2cm}}.",
+        "answer": ""
+    },
+    "44": {
+        "content": "Let $S$ be a finite set of integers. Suppose that for any two distinct elements, there exist three elements $a$, $b$, $c \\in S$ (not necessarily distinct, and $a \\neq 0$) such that the polynomial $F(x) = \\alpha x^2 + bx + c$ satisfies $F(p) = F(q) = 0$. The maximum number of elements in $S$ is \\underline{\\hspace{2cm}}",
+        "answer": ""
+    },
+    "45": {
+        "content": "A natural number whose last four digits are 2022 and is divisible by 2003 has a minimum value of \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "46": {
+        "content": "The number of positive integer solution in $\\left(x^{2}+2\\right)\\left(y^{2}+3\\right)\\left(z^{2}+4\\right)=60 x y z $ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "47": {
+        "content": "The number of integers satisfying the condition that $x^2+5n+5n+1$ is a perfect square is known to be \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "48": {
+        "content": "If p, q, r are prime numbers such that $p+q+r=100$, then the remainder when $p^{2} q^{2} r^{2}$ 2 is divided by 48 is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "49": {
+        "content": "Given $x, y, z$ are integers, and $10x^{3}+20y^{3}+2006 xyz=2007z^{3}$, then the maximum of $x+y+z$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "50": {
+        "content": "For a positive integer $n$, if the first two digits of  $5^{n}$ and $2^{n}$ are the same, denoted as $a$ and $b $ respectively, then the value of the two-digit number $ \\overline{ab}$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "51": {
+        "content": "The remainder when $\\frac{2020 \\times 2019 \\times \\cdots \\times 1977}{44!}$ is divided by 2021 is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "52": {
+        "content": "Given the sequence $\\{a_n\\}: a_1=1, a_{n+1}=\\frac{\\sqrt{3}a_n+1}{\\sqrt{3}-a_n}$, then \n$\\sum\\limits_{n=1}^{2022}a_n=\\_\\_\\_\\_\\_$.",
+        "answer": ""
+    },
+    "53": {
+        "content": "Given \\(2bx^2 + ax + 1 - b \\geq 0\\) holds for \\(x \\in [-1, 1]\\), find the maximum value of \\(a + b\\).",
+        "answer": ""
+    },
+    "54": {
+        "content": "Given $x,y \\in [0,+\\infty)$, and satisfying $x^3+y^3+6xy=8$. Then the minimum value of $2x^2+y^2=\\_\\_\\_\\_\\_$.",
+        "answer": ""
+    },
+    "55": {
+        "content": "Given $f(x)$ and $g(x)$ are two quadratic functions with the coefficient of the quadratic term being 1 for both. If $g(6)=35,\\frac{f(-1)}{g(-1)}=\\frac{f(1)}{g(1)}=\\frac{21}{20}$, then $f(6)=\\_\\_\\_\\_\\_$.",
+        "answer": ""
+    },
+    "56": {
+        "content": "Given $(n + 1)a^{n+1} - n a^n < (a + 1) < n a^{n+1} - (n - 1)a^n\\quad (-1 < a < 0)\n \\textcircled{1}$. Let$x=\\sum\\limits_{k=4}^{106}\\frac{1}{\\sqrt[3]{k}}$, then the integer part of x is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "57": {
+        "content": "Let $a_1=\\frac{\\pi}{6}, a_n \\in (0,\\frac{\\pi}{2})$, and $\\tan a_{n+1}\\cdot \\cos a_n=1 (n\\geq 1)$. If $\\prod\\limits_{k=1}^m \\sin a_k=\\frac{1}{100}$, then $m=$ \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "58": {
+        "content": "Let $y=f(x)$ be a strictly monotonically increasing function, and let its inverse function be $y=g(x)$. Let \n $x_1, x_2$ be the solutions to the equations $f(x)+x=2$ and $g(x)+x=2$ respectively. Then $x_1+x_2=\\_\\_\\_\\_\\_$.",
+        "answer": ""
+    },
+    "59": {
+        "content": "Let $x_0>0, x_0 \\neq \\sqrt{3}, Q(x_0,0), P(0,4)$, and the line PQ intersects the hyperbola $x^2-\\frac{y^2}{3}=1$ at points A and B. If\n$\\overrightarrow{PQ}=t\\overrightarrow{QA}=(2-t)\\overrightarrow{QB}$, then $x_0=\\_\\_\\_\\_\\_$.",
+        "answer": ""
+    },
+    "60": {
+        "content": "Assuming sequence ${F_n}$ satisfying: $F_1=F_2=1, F_{n+1}=F_n+F_{n-1} (n\\geq 2)$. Then the number of sets  of positive integers $(x,y)$ that satisfy $5F_x-3F_y=1$",
+        "answer": ""
+    },
+    "61": {
+        "content": "For some positive integers $n$, there exists a positive integer \n$k\\geq 2$ such that for positive integers $x_1,x_2,...,x_k$ satisfying the given condition, $\\sum\\limits_{i=1}^{k-1}x_ix_{i+1}=n$, $\\sum\\limits_{i=1}^{k}x_i=2019$\nthe number of such positive integers is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "62": {
+        "content": "Considering all non-increasing functions $f:\\{1,2,\\cdots,10\\} \\rightarrow \\{1,2,\\cdots,10\\}$, some of these functions have fixed points, while others do not. The difference in the number of these two types of functions is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "63": {
+        "content": "Given an integer coefficient polynomial $P(x)$ satisfying:\n$P(-1)=-4, P(-3)=-40, P(-5)=-156$. The maximum number of solutions x for $P(P(x))=x^2$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "64": {
+        "content": "Given hyperbola $\\Gamma: \\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$ passes the point $M(3,\\sqrt{2})$, line $l$ passes its right focus $F(2,0)$ and cross the right branch of $\\Gamma$ at points $A$ and $B$, and cross the y-axis at point P. If $\\overrightarrow{PA}=m\\overrightarrow{AF}, \\overrightarrow{PB}=n\\overrightarrow{BF}$, then $m+n=$ \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "65": {
+        "content": "Let positive real numbers $x_1, x_2, x_3, x_4$ satisfying $x_1x_2+x_2x_3+x_3x_4+x_4x_1=x_1x_3+x_2x_4$. Then the minimum of  $f=\\frac{x_1}{x_2}+\\frac{x_2}{x_3}+\\frac{x_3}{x_4}+\\frac{x_4}{x_1}$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "66": {
+        "content": "Given sequence $\\{a_n\\}$ satisfying $a_1=a, a_{n+1}=2(a_n+\\frac{1}{a_n})-3$. If $a_{n+1} > a_n (n \\in Z_{+})$. The range of real number $a$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "67": {
+        "content": "Given positive number $\\alpha, \\beta, \\gamma, \\delta $ satisfying $\n\\alpha+\\beta+\\gamma+\\delta=2\\pi$, and $k=\\frac{3\\tan\\alpha}{1+\\sec \\alpha}=\\frac{4\\tan \\beta}{1+\\sec \\beta}=\\frac{5\\tan \\gamma}{1+\\sec \\gamma}=\\frac{6\\tan\\delta}{1+\\sec\\delta}$, then $k$= \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "68": {
+        "content": "Let $A=\\{1,2,\\cdots,6\\}$, function $f:A \\rightarrow A$. Mark $p(f)=f(1)\\cdots f(6)$. Then the number of functions that make $p(f)|36$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "69": {
+        "content": "If unit complex number $a, b$ satisfy $a\\bar{b}+\\bar{a}b = \\sqrt{3}$, then $|a-b|=$ \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "70": {
+        "content": "The right focus $F_1$ of the ellipse $\\Gamma_1: \\frac{x^2}{24}+\\frac{y^2}{b^2}=1 (0<b<2\\sqrt{6})$ coincides with the focus of the parabola $\\Gamma_2: y^2=4px(p \\in Z_{+})$. The line $l$ passing through \nthe point $F_1$ with a positive integer slope \nintersects the ellipse $\\Gamma_1$ at points A and B, \nand intersects the parabola $\\Gamma_2$ at points C and D. If $13|AB|=\\sqrt{6}|CD|$, then $b^2+p=$ \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "71": {
+        "content": "Given that $p(x)$ is a quintic polynomial. If \n$x=0$ is a triple root of $p(x)+1=0$ and $x=1$ is a triple root of $p(x)-1=0$, then the coefficient of the \n$x^3$ term in the expression of $P(x)$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "72": {
+        "content": "Set $X=\\{1,2,\\cdots,10\\}$, mapping $f:X\\rightarrow X$ satisfy:\\\\\n(1) $f\\circ f = I_x$, where, $f\\circ f$ is a composite mapping, $I_x$ is an identity mapping on X.\\\\\n(2) $|f(i)-i|=2$, for any $i\\in X$.\\\\\nThen the number of mapping $f$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "73": {
+        "content": "Given a integer coefficient polynomial of degree 2022 with leading coefficient is 1, how many roots can it possibly have in the interval (0,1) as maximum?",
+        "answer": ""
+    },
+    "74": {
+        "content": "The system of equations $\\left\\{\\begin{array}{l}x^{2} y+y^{2} z+z^{2}=0, \\\\ z^{3}+z^{2} y+z y^{3}+x^{2} y=\\frac{1}{4}\\left(x^{4}+y^{4}\\right)\\end{array}\\right.$ has one set of real solution $(x,y,z)$.",
+        "answer": ""
+    },
+    "75": {
+        "content": "Set $x, y, z$ are real numbers, satisfying $x^{2}+y^{2}+z^{2}=1$. Then the maximum and minimum of  $(x-y)(y-z)(x-z)$ are \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "76": {
+        "content": "If there are a total of 95 numbers, each of which can take any value in +1 or -1, and it is known that the sum of the pairwise products of these 95 numbers is positive, then what is the minimum possible value of this positive sum?",
+        "answer": ""
+    },
+    "77": {
+        "content": "A monotonically increasing sequence of positive integers, starting from the third term, with each subsequent term being the sum of the preceding two terms. If its seventh term is 120, then its eighth term is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "78": {
+        "content": "Sequence $\\left\\{a_{n}\\right\\}$ satisfy $a_{0}=0, a_{1}=1$, and for any positive integer $\\mathrm{n}$, we have$a_{2 n}=a_{n^{\\prime}} a_{2 n+1}=a_{n}+1$, then $a_{2024}=$\\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "79": {
+        "content": "Non-negative real numbers $\\mathrm{x}, \\mathrm{y}, \\mathrm{z}$ satisfy $4 x^{2}+4 y^{2}+z^{2}+2 z=3$, then the minimum of $5 \\mathrm{x}+4 \\mathrm{y}+3 \\mathrm{z}$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "80": {
+        "content": "Real numbers $x, y$ satisfy $2 x-5 y \\leq-6$ and $3 x+6 y \\leq 25$, then the maximum value of $9 x+y$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "81": {
+        "content": "The sum of the maximum element and minimum element in set \\\\\n$\\left\\{\\left.\\frac{3}{a}+b \\right\\rvert\\, 1 \\leq a \\leq b \\leq 2\\right\\}$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "82": {
+        "content": "A monotonically increasing function $\\mathrm{f}(\\mathrm{x})$ defined on $R^{+}$ satisfies  $\\mathrm{f}\\left(\\mathrm{f}(\\mathrm{x})+\\frac{2}{\\mathrm{x}}\\right)=-1$ consistently holds within its domain, then $\\mathrm{f}(1)=$\\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "83": {
+        "content": "Given set: $A=\\left\\{x+y \\left\\lvert\\, \\frac{x^{2}}{9}+y^{2}=1\\right., x+y \\in \\mathbf{Z}_{+}\\right\\}, B=\\{2 x+y \\mid x, y \\in A, x<y\\}$, $C=\\{2 x+y \\mid x, y \\in A, x>y\\}$. Then the sum of all elements in $B \\cap C$ is",
+        "answer": ""
+    },
+    "84": {
+        "content": "Given a hyperbola $\\Gamma: \\frac{x^{2}}{7}-\\frac{y^{2}}{5}=1$, a line $l: a x+b y+1=0$ intersects $\\Gamma$ at point $A$. A tangent to $\\Gamma$ drawn through point $A$ is perpendicular to the line $l$. Then $\\frac{7}{a^{2}}-\\frac{5}{b^{2}}=$\\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "85": {
+        "content": "In the Cartesian coordinate plane $x O y$, point $A(a, 0), B(0, b), C(0,4)$, moving point $D$ satisfies $|C D|=1$. If  the maximum value of $|\\overrightarrow{O A}+\\overrightarrow{O B}+\\overrightarrow{O D}|$ is 6, then the minimum value of $a^{2}+b^{2}$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "86": {
+        "content": "Given $n$ is positive integer, for $i=1,2, \\cdots, n$, positive integer $a_{i}$ and positive even number $b_{i}$ satisfy $0<\\frac{a_{i}}{b_{i}}<1$, and for any positive integers $i_{1}, i_{2}\\left(1 \\leq i_{1}<i_{2} \\leq n\\right), a_{i_{1}} \\neq a_{i_{2}}$ and $b_{i_{1}} \\neq b_{i_{2}}$ at least one holds true. If for any positive integer $n$ and all positive integers $a_{i}$ and positive even numbers satisfy the above conditions, we all have $\\frac{\\sum_{i=1}^{n} b_{i}}{n^{\\frac{3}{2}}} \\geq c$, then the maximum value of real number $c$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "87": {
+        "content": "In a cube $ABCD-A_1B_1C_1D_1$, $AA_1=1$, E, F are the midpoints of edges $CC_1, DD_1$, then the area of the cross-section obtained by the plane AEF intersecting the circumscribed sphere of the cube is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "88": {
+        "content": "In tetrahedron $ABCD$, triangle $ABC$ is an equilateral triangle, $\\angle BCD=90^{\\circ}$, $BC=CD=1$,$AC=\\sqrt{3}$,$E$ and $F$ are the midpoints of edges $BD$ and $AC$ respectively. Then the cosine of the angle formed by lines $AE$ and $BF$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "89": {
+        "content": "Let P be a point inside triangle ABC, and $\\overrightarrow{AP} = \\overrightarrow{PB} + \\overrightarrow{PC}=0$. If $\\angle BAC = \\frac{\\pi}{3}, BC=2$, then the maximum value of $\\overrightarrow{PB}\\cdot\\overrightarrow{PC}$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "90": {
+        "content": "A rectangular solid whose length, width, and height are all natural numbers, and the sum of all its edge lengths equals its volume, is called a \"perfect rectangular solid. The maximum value of the volume of a perfect rectangular solid is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "91": {
+        "content": "In the convex quadrilateral $A B C D$ inscribed in a circle, if $\\overrightarrow{A B}+3 \\overrightarrow{B C}+2 \\overrightarrow{C D}+4 \\overrightarrow{D A}=0$, and $|\\overrightarrow{A C}|=4$, then the maximum of  $|\\overrightarrow{A B}|+|\\overrightarrow{B C}|$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "92": {
+        "content": "Given that the edge length of the cube $A B C D-A_{1} B_{1} C_{1} D_{1}$ is $1$, where, $E$ is the middle point of $A B$, $F$ is the middle point of $C C_{1}$. Then the distance from point $D$ to the plane passing through the three points $D_{1}, E, F$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "93": {
+        "content": "Given that the vertices of triangle $\\triangle OAB$ are $O(0,0)$, $A(4,4\\sqrt{3})$, and $B(8,0)$, with the incenter denoted as $I$, let $\\Gamma$ be a circle passing through points $A$ and $B$, intersecting circle $\\odot I$ at points $P$ and $Q$. If the tangents drawn through points $P$ and $Q$ are perpendicular, then the radius of circle $\\Gamma$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "94": {
+        "content": "A person has some $2 \\times 5 \\times 8$ bricks and some $2 \\times 3 \\times 7$ bricks, as well as a $10 \\times 11 \\times 14$ box. All bricks and the box are rectangular prisms. He wants to pack all the bricks into the box so that the bricks can fill the entire box. The number of bricks he can fit into the box is \\_\\_\\_\\_\\_ pieces.",
+        "answer": ""
+    },
+    "95": {
+        "content": "Let $a$ be an acute angle not exceeding $45^\\circ$. If $\\cot 2a - \\sqrt{3} = \\sec a$, then $a =$.",
+        "answer": ""
+    },
+    "96": {
+        "content": "Known that there is a regular 200-gon $A_{1}A_{2} \\ldots A_{200}$, connecting the diagonals $A_{i}A_{i+9}(\\mathrm{i}=1,2, \\ldots, 200)$, where $A_{i+200}=A_{i}(i=1,2, \\ldots, 9)$. Then there are a total of distinct intersection points inside the regular 200-gon.",
+        "answer": ""
+    },
+    "97": {
+        "content": "The distance between the highest point of the ellipse obtained by counterclockwise rotating the ellipse $\\frac{x^{2}}{2}+y^{2}=1$ about the origin by 45 degrees and the origin is:\\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "98": {
+        "content": "A convex $\\mathrm{n}$-gon with interior angles of $\\mathrm{n}$ degrees each, all integers, and all different.\nThe degree measure of the largest interior angle is three times the degree measure of the smallest interior angle. The maximum value that $n$ can take is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "99": {
+        "content": "In triangle $\\mathrm{ABC}$ with its incenter $\\mathrm{I}$, if $3\\vec{IA} + 4\\vec{IB} + 5\\vec{IC} = \\vec{0}$, then the measure of angle $\\mathrm{C}$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "100": {
+        "content": "Given the circle $x^2 + y^2 = 4$ and the point $\\mathrm{P}(2,1)$, two mutually perpendicular lines are drawn through point $\\mathrm{P}$, intersecting the circle at points $\\mathrm{A}, \\mathrm{B}$ and $\\mathrm{C}, \\mathrm{D}$ respectively. Point $\\mathrm{A}$ lies inside the line segment $PB$, and point $\\mathrm{D}$ lies inside the line segment $PC$. The maximum area of quadrilateral $ABCD$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "101": {
+        "content": "Given that the area of triangle $\\mathrm{ABC}$ is 1, and $\\mathrm{BC}=1$, when the product of the three altitudes of this triangle is maximized, $\\sin A =$",
+        "answer": ""
+    },
+    "102": {
+        "content": "If each face of a tetrahedron is not an isosceles triangle, then it has at least distinct edge lengths.",
+        "answer": ""
+    },
+    "103": {
+        "content": "In tetrahedron $ABCD$, where $AC=15$, $BD=18$, $E$ is the trisect point of $AD$ closer to $A$, $F$ is the trisect point of $BC$ closer to $C$, and $EF=14$. Then, the cosine value of the angle between edges $AC$ and $BD$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "104": {
+        "content": "Given that each face of the tetrahedron has edges of lengths $\\sqrt{2}$, $\\sqrt{3}$, and $2$, the volume of this tetrahedron is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "105": {
+        "content": "Given that the line $l$ intersects two parabolas $\\Gamma_{1}: y^{2}=2px (p>0)$ and $\\Gamma_{2}: y^{2}=4px$ at four distinct points $A\\left(x_{1}, y_{1}\\right)$, $B\\left(x_{2}, y_{2}\\right)$, $D\\left(x_{3}, y_{3}\\right)$, and $E\\left(x_{4}, y_{4}\\right)$, where $y_{4}<y_{2}<y_{1}<y_{3}$. \nLet $l$ intersect the $x$-axis at point $M$. Given that $AD = 6 BE$, then the value of $\\frac{AM}{ME}$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "106": {
+        "content": "Given that $\\triangle ABC$ is an acute-angled triangle, with $A$, $B$, and $C$ as its internal angles, the minimum value of $2 \\cot A+3 \\cot B+4 \\cot C$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "107": {
+        "content": "There are 10 points in the plane, with no three points lying on the same line. Using these 10 points as vertices of triangles, such that any two triangles have at most one common vertex, we can form at most \\_\\_\\_\\_\\_ triangles.",
+        "answer": ""
+    },
+    "108": {
+        "content": "Given that quadrilateral $ABCD$ is a parallelogram, with the lengths of $AB$, $AC$, $AD$, and $BD$ being distinct integers, then the minimum perimeter of quadrilateral $ABCD$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "109": {
+        "content": "When the two ends of a strip of paper are glued together, forming a loop, it is called a circular ring. Cutting along the bisector of the paper strip will result in two circular rings. When a strip of paper is twisted 180 degrees and then the ends are glued together again, forming a loop, it is called a Mobius strip. Cutting along the bisector of the Mobius strip will result in a longer loop-like structure. If cut along the bisector of this longer loop-like structure, it will yield a loop-like structure again.",
+        "answer": ""
+    },
+    "110": {
+        "content": "In the Cartesian coordinate system xOy, let \\(\\Gamma_{1}\\) be the ellipse \\(\\frac{x^{2}}{a^{2}}+\\frac{y^{2}}{b^{2}}=1(a>b>0)\\) and \\(\\Gamma_{2}\\) be the parabola \\(y^{2}=\\frac{1}{2}ax\\). They intersect at points A and B, and P is the rightmost point of \\(\\Gamma_{1}\\). If points O, A, P, and B are concyclic, then the eccentricity of \\(\\Gamma_{1}\\) is.",
+        "answer": ""
+    },
+    "111": {
+        "content": "Given the circle $\\Gamma: x^{2}+y^{2}=1$, points A and B are two points symmetric about the x-axis on the circle. M is any point on the circle $\\Gamma$ distinct from A and B. If MA and MB intersect the x-axis at points P and Q respectively, then the product of the abscissas of P and Q is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "112": {
+        "content": "If three points are randomly chosen from the vertices of a regular 17-sided polygon, what is the probability that the chosen points form an acute-angled triangle?",
+        "answer": ""
+    },
+    "113": {
+        "content": "A rook piece moves through  each square of a $2023\\times 2023 $ grid paper once, each time moving only one square (i.e., from the current square to an adjacent square). If the squares are numbered from 1 to $n^2$ according to the order in which the rook piece reaches them, let MM denote the maximum difference in numbers between adjacent squares. Then the minimum possible value of $M$ is?",
+        "answer": ""
+    },
+    "114": {
+        "content": "Using the 24-hour clock, the probability of the sum of four digits at a certain moment being smaller than the sum of the four digits at 20:21 is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "115": {
+        "content": "A six-digit number $N=\\overline{a_1a_2...a_{6}}$ composed of non-repeating digits from 1 to 6 satisfies the condition $|a_{k+1}-a_{k}| \\neq 1, (k\\in \\{1,2, \\cdots, 5\\})$. Then the number of such six-digit numbers is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "116": {
+        "content": "Given $M=\\{1,2, \\ldots, 8\\}, A, B$ are two distincet subsets of set $M$, satisfying\n\n(1) The number of elements in set \\(A\\) is fewer than the number of elements in set \\(B\\).\n\n(2) The smallest element in set \\(A\\) is larger than the largest element in set \\(B\\).\n\nThen the total number of ordered pairs \\((A, B)\\) satisfying these conditions is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "117": {
+        "content": "Using six different colors to color each edge of the regular tetrahedron \\(ABCD\\), each edge can only be colored with one color and edges sharing a vertex cannot have the same color. The probability that all edges have different colors is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "118": {
+        "content": "The king summons two wizards into the palace. He demands Wizard A to write down 100 positive real numbers on cards (allowing duplicates) without revealing them to Wizard B. Then, Wizard B must accurately write down all of these 100 positive real numbers. Otherwise, both wizards will be beheaded. Wizard A is allowed to provide a sequence of numbers to Wizard B, where each number is either one of the 100 positive real numbers or a sum of some of them. However, he cannot tell Wizard B which are the numbers on the cards and which are the sums of numbers on the cards. Ultimately, the king decides to pull off the same number of beards from both wizards based on the count of these numbers. Without the ability to communicate beforehand, the question is: How many beard pulls does each wizard need to endure at least to ensure their own survival?",
+        "answer": ""
+    },
+    "119": {
+        "content": "Using $1 \\times 1$, $2 \\times 2$, and $3 \\times 3$ tiles to cover a $23 \\times 23$ floor (without overlapping or leaving gaps), what is the minimum number of $1 \\times 1$ tiles needed? (Assuming each tile cannot be divided into smaller tiles).",
+        "answer": ""
+    },
+    "120": {
+        "content": "In a number-guessing game, the host has prearranged a permutation of the numbers 1 to 100, and participants also need to provide a permutation of these 100 numbers. Interestingly, as long as the permutation provided by a participant has at least one number whose position matches that of the host's permutation, it is considered a successful guess. How many participants are needed to ensure that at least one person guesses correctly?",
+        "answer": ""
+    },
+    "121": {
+        "content": "There is a stack of 52 face-down playing cards on the table. Mim takes 7 cards from the top of this stack, flips them over, and puts them back at the bottom, calling it one operation. The question is: how many operations are needed at least to make all the playing cards face-down again?",
+        "answer": ""
+    },
+    "122": {
+        "content": "There are two segments of length $3n (0 \\leq n \\leq 1011)$. How many different shapes of triangles can be formed from 2024 segments? (Congruent triangles are considered the same.)",
+        "answer": ""
+    },
+    "123": {
+        "content": "Let $A$ and $B$ be two subsets of the set $\\{1,2, \\ldots, 20\\}$, where $A \\cap B = \\varnothing$, and if $n \\in A$, then $2n + 2 \\in B$. Let $M(A)$ denote the sum of the elements of $A$. The maximum value of $M(A)$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "124": {
+        "content": "Alice and Bob are playing a game. They write down four expressions on four cards: $x+y$, $x-y$, $x^2+xy+y^2$, and $x^2-xy+y^2$. They place these four cards face down on the table, then randomly choose one card to reveal its expression. Alice can pick two of the four cards and hand the other two to Bob, then all four cards are revealed. Alice can assign a value (real number) to one of the variables $x$ or $y$ and inform Bob of which variable she has assigned and what value. Afterwards, Bob assigns a value (real number) to the other variable. Finally, they each calculate the product of the values on their two cards, and the person with the larger product wins. Who has a winning strategy?\nA. Alice\nB. Bob\nC. Neither of them has a winning strategy.",
+        "answer": ""
+    },
+    "125": {
+        "content": "Find the smallest integer $k > 2$ such that any partition of $\\{2,3,\\ldots,k\\}$ into two sets must contain at least one set containing $a$, $b$, and $c$ (which are allowed to be the same), satisfying $ab=c$.",
+        "answer": ""
+    },
+    "126": {
+        "content": "On a plane, there are 2019 points. Drawing circles passing through these points, a drawing method is called \"$k$-good\" if and only if drawing $k$ circles divides the plane into several closed shapes, and there is no closed shape containing two points. Then, when $k$ takes the minimum value, it ensures that no matter how these 2019 points are arranged, there always exists a $k$-good drawing method.",
+        "answer": ""
+    },
+    "127": {
+        "content": "Zheng flips an unfair coin 5 times. If the probability of getting exactly 1 head is equal to the probability of getting exactly 2 heads and is nonzero, then the probability of getting exactly 3 heads is \\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "128": {
+        "content": "Let $a_{1}, a_{2}, \\ldots, a_{6}$ be any permutation of $\\{1,2, \\ldots, 6\\}$. If the sum of any three consecutive numbers cannot be divided by 3, then the number of such permutations is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "129": {
+        "content": "Given an integer $n > 2$. Now, there are $n$ people playing a game of \"Passing Numbers\". It is known that some people are friends (friendship is mutual), and each person has at least one friend. The rules of the game are as follows: each person first writes down a positive real number, and the $n$ positive real numbers written by everyone are all different; then, for each person, if he has $k$ friends, he divides the number he wrote by $k$, and tells all his friends the result obtained; finally, each person writes down the sum of all the numbers he hears. The question is: what is the minimum number of times that someone writes down different numbers?",
+        "answer": ""
+    },
+    "130": {
+        "content": "A restaurant can offer 9 types of appetizers, 9 types of main courses, 9 types of desserts, and 9 types of wines. A company is having a dinner party at this restaurant, and each guest can choose one appetizer, one main course, one dessert, and one type of wine. It is known that any two people's choices of the four dishes are not completely identical, and it is also impossible to find four people on the spot who have three identical choices but differ pairwise in the fourth choice (for example, there are no 9 people who have the same appetizer, main course, and dessert, but differ pairwise in the wine). Then, at most how many guests can there be?",
+        "answer": ""
+    },
+    "131": {
+        "content": "Alice and Bob are playing hide-and-seek. Initially, Bob selects a point $B$ inside a unit square (without informing Alice). Then, Alice sequentially selects points $P_0, P_1, \\ldots, P_n$ on the plane. After each selection of a point $P_k (1 \\leq k \\leq n$, and at this point, Alice has not yet chosen the next point), Bob informs Alice which of the points $P_k$ and $P_{k-1}$ is closer to point $B$. After Alice selects $P_n$ and receives Bob's response, she chooses a final point $A$. If the distance between $A$ and $B$ does not exceed $\\frac{1}{2020}$, Alice wins. Otherwise, Bob wins. When $n=18$, which of the following options is correct?\nA. Alice cannot guarantee victory.\nB. Alice can guarantee victory.",
+        "answer": ""
+    },
+    "132": {
+        "content": "Anna, Carl take turns selecting numbers from the set $\\{1,2, \\cdots, p-1\\}$ (where $p$ is a prime greater than 3). Anna goes first, and each number can only be selected once. Each number chosen by Anna is multiplied by the number Carl selects next. Carl wins if, after any round, the sum of all products computed so far is divisible by $p$. Anna wins if, after all numbers are chosen, Carl has not won. Which of the following options is correct?\n\nA. Anna has a winning strategy.\nB. Carl has a winning strategy.\nC. Both players have no winning strategy.",
+        "answer": ""
+    },
+    "133": {
+        "content": "Xiao Ming is playing a coin game with three doors. Each time he opens a door, it costs him 2 coins. After opening the first door, he can see the second door. Upon opening the second door, two equally likely options appear: either return to the outside of the first door or proceed to the third door. Upon opening the third door, three equally likely options appear: either return to the outside of the first door, stay in place and need to reopen the third door, or pass the game. If Xiao Ming wants to pass the game, on average, he needs to spend how many coins?",
+        "answer": ""
+    },
+    "134": {
+        "content": "The school offers 10 elective courses, and each student can enroll in any number of courses. The director selects $k$ students, where although each student's combination of courses is different, any two students have at least one course in common. At this point, it is found that any student outside these $k$ students cannot be classmates with these $k$ students regardless of how they enroll (having one course in common is enough to be classmates). Then $k=$ \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "135": {
+        "content": "Let $n$ be a positive integer. Now, a frog starts jumping from the origin of the number line and makes $2^{n}-1$ jumps. The process satisfies the following conditions:\n\n(1) The frog will jump to each point in the set $\\left\\{1,2,3, \\cdots, 2^{n}-1\\right\\}$ exactly once, without missing any.\n\n(2) Each time the frog jumps, it can choose a step length from the set $\\left\\{2^{0}, 2^{1}, 2^{2}, \\cdots\\right\\}$, and it can jump either left or right.\n\nLet $T$ be the reciprocal sum of the step lengths of the frog. When $n=2024$, the minimum value of $T$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "136": {
+        "content": "Given that there are 66 dwarves with a total of 111 hats, each hat belonging to a specific dwarf, and each hat is dyed in one of 66 colors. During the holiday, each dwarf wears his own hat. It is known that for any holiday, the colors of the hats worn by all dwarves are different. For any two holidays, there is at least one dwarf who wears hats of different colors on the two occasions. The question is: how many holidays can the dwarves celebrate at most?",
+        "answer": ""
+    },
+    "137": {
+        "content": "There are $n$ cards, each labeled with the numbers $1 , 2, \\cdots, n$. These $n$ cards are distributed among 17 people, with each person receiving at least 1 card. Then, there is always one person who receives cards with numbers $x$ and $y$, where $x>y$, and  $118x \\leqslant 119y$. The smallest positive integer $n$ that satisfies this condition is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "138": {
+        "content": "let $a_{1}, a_{2}, \\cdots, a_{9}$ be a permutation of $1,2, \\cdots, 9$. If the permutation $C=\\left(a_{1}, a_{2}, \\cdots, a_{9}\\right)$ can be obtained from $1,2, \\cdots, 9$, by swapping two elements at most 4 times, the total number of permutations satisfying this condition is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "139": {
+        "content": "Let sequence $a_{1}, a_{2}, \\cdots, a_{10}$ satisfy $1 \\leqslant a_{1} \\leqslant{l} a_{2} \\leqslant \\cdots \\leqslant a_{10} \\leqslant 40$, $a_{4} \\geqslant6$, and $\\log _{2}\\left(\\left|a_{i}-i\\right|+1\\right) \\in \\mathbf{N}(i=1,2, \\cdots, 10)$ The number of such sequences is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "140": {
+        "content": "A student walks through a hallway with a row of closed lockers numbered from 1 to 1024. He starts by opening locker number 1, then proceeds forward, alternately leaving untouched or opening each closed locker. When he reaches the end of the hallway, he turns around and walks back, opening the first closed locker he encounters. The student continues this back and forth journey until every locker is opened. The number of the last locker he opens is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "141": {
+        "content": "Let $A=\\{-3,-2, \\cdots, 4\\}, a, b, c \\in A$ be distinct elements of A. If the angle of inclination of the line: $a x+b y+c=0$ is acute, then the number of such distinct lines is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "142": {
+        "content": "In a sequence of length 15 consisting of $a$ and $b$, if exactly five \"aa\"s occur and both \"ab\" and \"ba\" occur exactly three times, there are \\_\\_\\_\\_\\_ sequences.",
+        "answer": ""
+    },
+    "143": {
+        "content": "Among the five-digit numbers formed by the digits 1, 2, ..., 6, the number of five-digit numbers satisfying the condition of having at least three different digits and 1 and 6 not being adjacent is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "144": {
+        "content": "How many numbers can be selected at most from 1 to 100 to ensure that the quotient of the least common multiple and greatest common divisor of any two numbers is not a perfect square?",
+        "answer": ""
+    },
+    "145": {
+        "content": "From the natural numbers 1 to 100, choose any \\( m \\) numbers such that among these \\( m \\) numbers, there exists one number that can divide the product of the remaining \\( m-1 \\) numbers. The minimum value of \\( m \\) is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "146": {
+        "content": "Several teams are participating in a friendly football match, where any two teams play at most one match against each other. It is known that each team has played 4 matches, and there are no draws. A team is considered a \"weak team\" if it loses at least 2 out of the 4 matches it plays. If there are only 3 \"weak teams\" in this friendly match, then at most how many teams could have participated in the matches?",
+        "answer": ""
+    },
+    "147": {
+        "content": "In the equation, the same letter represents the same digit, and different letters represent different digits. Then, the four-digit number \\(\\overline{a b c d}\\) is given by:\n\n$$\n(\\overline{a b})^{c} \\times \\overline{a c d}=\\overline{a b c a c d}\n$$",
+        "answer": ""
+    },
+    "148": {
+        "content": "Let $n$ be represented as the difference of squares of two nonzero natural numbers, then there are $F(n)$ ways to do so.\n\nFor example, $15=8^{2}-7^{2}=4^{2}-1^{2}$, so $F(15)=2$; whereas 2 cannot be represented, hence $F(2)=0$. Then, the calculation result of $F(1)+F(2)+F(3)+\\cdots+F(100)$ is \\_\\_\\_\\_\\_.",
+        "answer": ""
+    },
+    "149": {
+        "content": "What is the simplified value of the expression, $8x^3-3xy+\\sqrt{p}$, if $p=121$, $x=-2$, and $y=\\frac{3}{2}$?\n\\begin{align*}\n\\text{A)}\\ & 84 &\n\\text{B)}\\ & 73+\\sqrt{11}\\\\\n\\text{C)}\\ & -28  &\n\\text{D)}\\ & -44\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "150": {
+        "content": "Which expression best represents \u201cthe product of twice a quantity x and the difference of that quantity and 7\u201d? \n\\begin{align*}\n\\text{A)}\\ & 2x(7-x) & \n\\text{B)}\\ & 2x(x-7) \\\\\n\\text{C)}\\ & 2x-(x-7) & \n\\text{D)}\\ & 2(x-7)\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "151": {
+        "content": "The formula for the area of a triangle is $A = \\frac{1}{2}bh$. The area of a triangle is 62 square meters, and its height is 4 meters. What is the length of the base?\n\n\\noindent Options:\\\\\nA) 15.5 m\\\\\nB) 27 m\\\\\nC) 31 m\\\\\nD) 62 m",
+        "answer": ""
+    },
+    "152": {
+        "content": "Simplify: $(-m^2n^{-3})^3 \\cdot (4m^{-1}n^2p^3)^2$\n\\begin{align*}\n\\text{A)}\\ & \\frac{-16m^4p^6}{n^5} &\n\\text{B)}\\ & \\frac{16m^3p^5}{n^2} \\\\\n\\text{C)}\\ & \\frac{8m^3p^5}{n^2}  &\n\\text{D)}\\ & \\frac{-16m^6p^9}{n^{23}}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "153": {
+        "content": "If $M=24a^{-2}b^{-3}c^5$ and $N=18a^{-7}b^6c^{-4}$, then $\\frac{N}{M}=$\n\\begin{align*}\n\\text{A)}\\ & \\frac{4a^5c^9}{3b^9} &\n\\text{B)}\\ & \\frac{4a^5c}{3b^3} \\\\\n\\text{C)}\\ & \\frac{3b^9}{4a^5c^9}  &\n\\text{D)}\\ & \\frac{3b^3}{4a^5c}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "154": {
+        "content": "The volume of a rectangular prism is $2x^5 + 16x^4 + 24x^3$. If the height of the rectangular prism is $2x^3$, which of the following could represent one of the other dimensions of the rectangular prism?\n\\begin{align*}\n\\text{A)}\\ & (x+2) &\n\\text{B)}\\ & (x+3) \\\\\n\\text{C)}\\ & (x+4)  &\n\\text{D)}\\ & (x+12)\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "155": {
+        "content": "Which expression is equivalent to $(3x - 1)(2x^2 + 1)$?\n\n\\noindent Options:\\\\\nA) $6x^3 - 2x^2 - 3x + 1$\\\\\nB) $6x^3 - 2x^2 + 3x - 1$\\\\\nC) $5x^3 - 2x^2 + 3x - 1$\\\\\nD) $5x^3 - x^2 + 4x$",
+        "answer": ""
+    },
+    "156": {
+        "content": "Factor \\( 64b^2 - 16b + 1 \\) completely.\n\n\\noindent Options:\\\\\nA) \\( (32b - 1)(32b + 1) \\)\\\\\nB) \\( (b - 8)^2 \\)\\\\\nC) \\( (8b - 1)^2 \\)\\\\\nD) \\( (8b + 1)^2 \\)",
+        "answer": ""
+    },
+    "157": {
+        "content": "Simplify $6\\sqrt[3]{64}-\\sqrt{12}\\cdot 2\\sqrt{27}$\n\\begin{align*}\n\\text{A)}\\ & 12  &\n\\text{B)}\\ & -12  \\\\\n\\text{C)}\\ & 24-12\\sqrt{3}  &\n\\text{D)}\\ & 48-72\\sqrt{3}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "158": {
+        "content": "What is the simplified form of $\\sqrt{80x^5y^2z^3}$? Assume all variables are positive.\n\\begin{align*}\n\\text{A)}\\ & 16x^2yz\\sqrt{5xz} &\n\\text{B)}\\ & 16xyz\\sqrt{5x^3z}  \\\\\n\\text{C)}\\ & 4x^2yz\\sqrt{5xz}  &\n\\text{D)}\\ & 4\\sqrt{5x^5y^2z^3}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "159": {
+        "content": "Which of the following is NOT equivalent to $-4$?\n\\begin{align*}\n\\text{A)}\\ & 2\\sqrt{9}-5\\sqrt[3]{8} &\n\\text{B)}\\ & 3\\sqrt[3]{64}-2\\sqrt{64} \\\\\n\\text{C)}\\ & 2\\sqrt{121}-3\\sqrt[3]{216}  &\n\\text{D)}\\ & 4\\sqrt{25}-8\\sqrt[3]{27}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "160": {
+        "content": "What are the solutions of the quadratic equation $15x^2=2x+8$\n\\begin{align*}\n\\text{A)}\\ & \\{-\\frac{4}{3},-\\frac{3}{2}\\} &\n\\text{B)}\\ & \\{-\\frac{4}{5},\\frac{2}{3}\\} \\\\\n\\text{C)}\\ & \\{-\\frac{3}{2},\\frac{4}{5}\\}  &\n\\text{D)}\\ & \\{-\\frac{2}{3},\\frac{4}{5}\\}\\\n\\end{align*}",
+        "answer": ""
+    },
+    "161": {
+        "content": "Find the solution of $4(3y-5)=2(7y+3)$\n\\begin{align*}\n\\text{A)}\\ & -13 &\n\\text{B)}\\ & -4 \\\\\n\\text{C)}\\ & \\frac{11}{2}  &\n\\text{D)}\\ & 13\\\n\\end{align*}",
+        "answer": ""
+    },
+    "162": {
+        "content": "Solve the equation $x^2-7+2x=0$\n\\begin{align*}\n\\text{A)}\\ & \\{-1-2\\sqrt{2},-1+2\\sqrt{2}\\} &\n\\text{B)}\\ & \\{1-2\\sqrt{2},1+2\\sqrt{2}\\}\\\\\n\\text{C)}\\ & \\{\\frac{-7-\\sqrt{41}}{2},\\frac{-7+\\sqrt{41}}{2}\\}  &\n\\text{D)}\\ & \\{\\frac{7-\\sqrt{41}}{2},\\frac{7+\\sqrt{41}}{2}\\}\\\n\\end{align*}",
+        "answer": ""
+    },
+    "163": {
+        "content": "At a movie theater, the adult ticket price is \\$8 and the child ticket price is \\$6.  For a certain movie, 210 tickets were sold and \\$1500 was collected.  How many adult tickets were sold?\n\\begin{align*}\n\\text{A)}\\ & 30 &\n\\text{B)}\\ & 90\\\\\n\\text{C)}\\ & 120  &\n\\text{D)}\\ & 150\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "164": {
+        "content": "Solve for $y:x-yz+5=8$\n\\begin{align*}\n\\text{A)}\\ & y=\\frac{x-3}{z} &\n\\text{B)}\\ & y=\\frac{x-13}{z} \\\\\n\\text{C)}\\ & y=\\frac{3-x}{z}  &\n\\text{D)}\\ & y=\\frac{13-x}{z}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "165": {
+        "content": "Describe the type of solution for the linear system of equations defined by\n\\[\n\\left\\{\n\\begin{array}{rcl}\n2y - 3x &=& 20\\\\\n-\\frac{3}{2}x + y &=& 10\n\\end{array}\n\\right.\n\\]\n\n\\noindent Options:\\\\\nA) no solution\\\\\nB) infinite solutions\\\\\nC) one solution\\\\\nD) two solutions",
+        "answer": ""
+    },
+    "166": {
+        "content": "Identify all of the following equations that have a solution of -2?\n\\begin{align*}\n\\text{I)}\\ & 3(x+7)=5(x+5) &\n\\text{II)}\\ & x^2+x-6=0\\\\\n\\text{III)}\\ & 2(x-4)=x-10  &\n\\text{IV)}\\ & x^2=4 \\\\\n\\end{align*} \n\n\\begin{align*}\n\\text{A)}\\ & I and III &\n\\text{B)}\\ & II and IV\\\\\n\\text{C)}\\ & I, II and IV  &\n\\text{D)}\\ & I, III and IV\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "167": {
+        "content": "What is the solution of the system of linear equations? \n\\begin{align*}\n    \\left\\{ \\begin{array}{l}\n    7x-2y=5\\\\\n    -3x-4y=7\n    \\end{array}\\right.\n\\end{align*}\n\\begin{align*}\n\\text{A)}\\ & (\\frac{3}{17},-\\frac{32}{17}) &\n\\text{B)}\\ & (-\\frac{3}{17}, -\\frac{32}{17})\\\\\n\\text{C)}\\ &  (\\frac{3}{17},\\frac{32}{17}) &\n\\text{D)}\\ & (-\\frac{3}{17},\\frac{32}{17})\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "168": {
+        "content": "What values of x make the inequality true? $4(x-2)-10x\\geq -3x+13$\n\\begin{align*}\n\\text{A)}\\ & \\{x: x\\geq 1\\} &\n\\text{B)}\\ & \\{x: x\\geq -7\\}\\\\\n\\text{C)}\\ & \\{x: x\\leq 1\\}  &\n\\text{D)}\\ & \\{x: x\\leq -7\\}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "169": {
+        "content": "What is the equation of the line that passes through the points $(4,-4)$ and $(-5, 14)$?\n\\begin{align*}\n\\text{A)}\\ & x+2y=2 &\n\\text{B)}\\ & 2x+3y=12\\\\\n\\text{C)}\\ & 2x+y=4  &\n\\text{D)}\\ & 3x-2y=-6\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "170": {
+        "content": "The cost $c$ per person to participate in a guided mountain biking tour depends on the number of people $n$ participating in the tour. This relationship can be described by the function $c = -3n + 60$, where $0 < n < 12$. What is the rate of change described by this function?\n\\begin{align*}\n\\text{A)}\\ & \\text{20 people per tour} &\n\\text{B)}\\ & \\text{-3 people per tour}\\\\\n\\text{C)}\\ &  \\text{20\\$ per person} &\n\\text{D)}\\ & \\text{-3\\$ per person}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "171": {
+        "content": "Find $f(-3)$ if $f(x)=6x^2-x-2$.\n\\begin{align*}\n\\text{A)}\\ & 55 &\n\\text{B)}\\ & 53\\\\\n\\text{C)}\\ &  -53 &\n\\text{D)}\\ & -59\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "172": {
+        "content": "When Darcy\u2019s school bus travels at 30 miles per hour, it gets from her home to school in 12 minutes. What is the speed of Darcy\u2019s bus if it makes the same trip in \n\t18 minutes?\n\n\\begin{align*}\n\\text{A)}\\ & 20 \\  \\text{mph} &\n\\text{B)}\\ & 28 \\ \\text{mph}\\\\\n\\text{C)}\\ &  36 \\  mph &\n\\text{D)}\\ & 45\\  mph\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "173": {
+        "content": "The price of a package varies directly with the number of stickers in the package.   If a package contains 650 stickers and sells for \\$26.00, what is the constant of variation? How much will 800 stickers cost?\n\\begin{align*}\n\\text{A)}\\ & k = 0.04; \\$32.00 &\n\\text{B)}\\ &\t\tk = 0.40; \\$320.00\n\\\\\n\\text{C)}\\ &  \t\tk = 6.24; \\$806.24\n &\n\\text{D)}\\ &\t\tk = 25; \\$20,000.00 \n\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "174": {
+        "content": "Which function does NOT have an x-intercept?\n\\begin{align*}\n\\text{A)}\\ &y=\\frac{1}{2}x-7&\n\\text{B)}\\ & y=-\\frac{1}{3}x-5\\\\\n\\text{C)}\\ &  y=-x^2+2x+5 &\n\\text{D)}\\ & y=x^2-2x+5\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "175": {
+        "content": "What is the x-intercept and Y-intercept of the graph of  $5x \u2013 3y = -30$?\n\\begin{align*}\n\\text{A)}\\ &\\text{The x-intercept is 6, and the y-intercept is -10}\\\\\n\\text{B)}\\ &\\text{The x-intercept is -6, and the y-intercept is 10}.\n\\\\\n\\text{C)}\\ &\\text{The x-intercept is 10, and the y-intercept is -6}.\n\\\\\n\\text{D)}\\ & \\text{The x-intercept is -10, and the y-intercept is 6}.\n\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "176": {
+        "content": "Is the point $(1,-3)$ a solution to the equation  $f(x) = x^2 +4x \u2013 8$?\n\\begin{align*}\n\\text{A)}\\ & \\text{Yes} &\n\\text{B)}\\ & \\text{No}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "177": {
+        "content": "If y varies inversely with x, and $x = 18$ when $y = 4$, find y when $x = 12$.\n\\begin{align*}\n\\text{A)}\\ & y=3  &\n\\text{B)}\\ & y=6\\\\\n\\text{C)}\\ &  y=9 &\n\\text{D)}\\ & y=54 \\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "178": {
+        "content": "If 10 workers can build a house in 12 weeks, how long will it take 15 workers to build the same house?\n\\begin{align*}\n\\text{A)}\\ &6  &\n\\text{B)}\\ & 16\\\\\n\\text{C)}\\ &  8 &\n\\text{D)}\\ & 18\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "179": {
+        "content": "Write the equation of the line that has a y\u2013intercept of \u20133 and is parallel to the line $y = -5x +1$.",
+        "answer": ""
+    },
+    "180": {
+        "content": "A model house was built that states that 3 inches represents 10 ft.  If the width of the door on the model is 1.2 inches, what is the width of the actual door?",
+        "answer": ""
+    },
+    "181": {
+        "content": "The product of 4 more than a number and 6 is 30 more than 8 times the number.  What is the number?",
+        "answer": ""
+    },
+    "182": {
+        "content": "Solve $4(x+4)=24+3(2x-2)$.",
+        "answer": ""
+    },
+    "183": {
+        "content": "Three times as many robins as cardinals visited a bird feeder.  If a total of 20 robins and cardinals\n              visited the feeder, write a system of equations to represent the situation and solve how many were robins?",
+        "answer": ""
+    },
+    "184": {
+        "content": "Describe all the transformations of the function: $f(x)=-|x-3|+1$\n\\begin{align*}\n\\text{A)}\\ & \\text{Translated 3 units left, 1 unit up and reflected over the x-axis} \\\\\n\\text{B)}\\ &  \\text{Translated 1 unit right, 3 units down and reflected over the x-axis}\\\\\n\\text{C)}\\ &  \\text{Translated 3 units right and 1 unit up and reflected over the y-axis}\\\\\n\\text{D)}\\ & \\text{Translated 3 units right and 1 unit up and reflected over the x-axis}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "185": {
+        "content": "If the value of the discriminant for the function $f(x)=2x^2-5x+6$ is equal to -23, which of the following correctly describes the graph of $f(x)$?\n\\begin{align*}\n\\text{I)}\\ & f(x)\\text{ has real roots.}&\n\\text{II)}\\ & f(x) \\text{ has imaginary roots.}  \\\\\n\\text{III)}\\ & f(x) \\text{ has two solutions.} &\n\\text{IV)}\\ & f(x) \\text{ has one solution.}\\\\\n\\end{align*}   \n\\begin{align*}\n\\text{A)}\\ & \\text{I and III only} &\n\\text{B)}\\ & \\text{I and IV only}\\\\\n\\text{C)}\\ & \\text{II and III only} &\n\\text{D)}\\ & \\text{IV only}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "186": {
+        "content": "What is the axis of symmetry of the function $y=-3(x+1)^2+4$?\n\\begin{align*}\n\\text{A)}\\ & x=-3 &\n\\text{B)}\\ & x=-1 \\\\\n\\text{C)}\\ & x=1  &\n\\text{D)}\\ & x=4\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "187": {
+        "content": "Which equation shows the function $f(x)=12x^2+36x+27$ in intercept form?\n\\begin{align*}\n\\text{A)}\\ & f(x)=3(2x-3)^2 &\n\\text{B)}\\ & f(x)=3(2x+3)^2 \\\\\n\\text{C)}\\ & f(x)=(6x-9)(2x-3)  &\n\\text{D)}\\ & f(x)=3(2x+3)(2x-3)\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "188": {
+        "content": "Which of the following represents the function in intercept form $y=64x^2-49$?\n\\begin{align*}\n\\text{A)}\\ & y=(64x+1)(x-49) &\n\\text{B)}\\ & y=(8x+7)(8x-7) \\\\\n\\text{C)}\\ & y=(8x+7)(8x+7)  &\n\\text{D)}\\ & y=(8x-7)(8x-7)\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "189": {
+        "content": "Use factoring to find the solutions to the equation $x^2+24x=-144$.\n\\begin{align*}\n\\text{A)}\\ & -12 &\n\\text{B)}\\ & 12 \\\\\n\\text{C)}\\ & -12 \\ and \\  12  &\n\\text{D)}\\ & 9 \\ and \\ 16\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "190": {
+        "content": "Solve the equation $-x^2-11=-2x^2+5$ for the variable $x$.\n\\begin{align*}\n\\text{A)}\\ & \\pm2 &\n\\text{B)}\\ & \\pm4 \\\\\n\\text{C)}\\ & \\pm\\sqrt{2}  &\n\\text{D)}\\ & \\pm\\sqrt{6}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "191": {
+        "content": "What must be added to the equation \\( x^2 + 20x = 0 \\) to complete the square?\n\n\\noindent Options:\\\\\nA) 10\\\\\nB) 25\\\\\nC) 40\\\\\nD) 100",
+        "answer": ""
+    },
+    "192": {
+        "content": "If $f(x)=x^2+4$ and $g(x)=\\sqrt{10-x}$, what is the value of $f(g(1))$?\n\\begin{align*}\n\\text{A)}\\ & 1 &\n\\text{B)}\\ & 0 \\\\\n\\text{C)}\\ & \\sqrt{5}  &\n\\text{D)}\\ & 13\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "193": {
+        "content": "Find all the solutions to the function: $0=(-4x+9)(x-1)(3x-5)$\n\\begin{align*}\n\\text{A)}\\ & x=-\\frac{7}{4}, x=1, x=\\frac{7}{3} &\n\\text{B)}\\ & x=\\frac{9}{4}, x=1, x=\\frac{5}{3} \\\\\n\\text{C)}\\ & x=9, x=1, x=-\\frac{5}{3}  &\n\\text{D)}\\ & x=\\frac{9}{8}, x=\\frac{1}{2}, x =\\frac{5}{6}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "194": {
+        "content": "What are the solutions to the equation $0.5x^2-0.45x-0.3=0$?\n\\begin{align*}\n\\text{A)}\\ & x=-1.35 \\ and \\ x=0.45 &\n\\text{B)}\\ & x=1.35 \\ and \\ x=-0.45 \\\\\n\\text{C)}\\ & x=-1.35 \\ and \\ x=-0.45  &\n\\text{D)}\\ & x=1.35 \\ and \\ x=0.45\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "195": {
+        "content": "Find the remainder when $f(x)=5x^4+2x^2-3x+1$ is divided by $x-2$.\n\\begin{align*}\n\\text{A)}\\ & 95 &\n\\text{B)}\\ & 43 \\\\\n\\text{C)}\\ & 83  &\n\\text{D)}\\ & -25\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "196": {
+        "content": "The path of an object falling to Earth is represented by the equation  $h(t)=-16t^2+vt+s$. What is the equation of an object that is shot up into the air from 150 feet above the ground and has an initial velocity of 62 feet per second?  \n\\begin{align*}\n\\text{A)}\\ & h(t)=-16t^2+62t+150 &\n\\text{B)}\\ & h(t)=-16t^2+150t+62 \\\\\n\\text{C)}\\ & h(t)=-16t^2+62t  &\n\\text{D)}\\ & h(t)=-16t^2+150t\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "197": {
+        "content": "The graph above shows a portion of a system of equations where  $f(x)$ has $a>0$ and $g(x)$ has $a<0$. Which of the following satisfies the equation $f(x)=g(x)$?   \n\\begin{align*}\n\\text{A)}\\ & \\{(0,-1);(-3,2)\\} &\n\\text{B)}\\ & \\{(-1,2);(-2,3)\\} \\\\\n\\text{C)}\\ & \\{(1,2);(2,7)\\}  &\n\\text{D)}\\ & \\{(-3.7,0);(0.4,0)\\}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "198": {
+        "content": "Which of the following is the conjugate of the expression $\\frac{2}{3-\\sqrt{2}}$?   \n\\begin{align*}\n\\text{A)}\\ & 3-\\sqrt{2} &\n\\text{B)}\\ & 3+\\sqrt{2}  \\\\\n\\text{C)}\\ & \\sqrt{2}  &\n\\text{D)}\\ & -\\sqrt{2}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "199": {
+        "content": "Solve the equation $\\frac{2}{x+5}+\\frac{3}{x-5}=\\frac{7 x-9}{x^{2}-25}$ for the variable $x$.\n\\begin{align*}\n\\text{A)}\\ & x=5 & \n\\text{B)}\\ & x=\\frac{9}{2} \\\\\n\\text{C)}\\ & x=2 &\n\\text{D)}\\ & x=7\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "200": {
+        "content": "Choose all the following that have an end behavior as $x \\rightarrow \\infty, f(x) \\rightarrow \\infty$. NOTE: You may choose more than one.\n\\begin{align*}\n\\text{A)}\\ & f(x)=-x^{4}+3 x^{2}-x-7 &\n\\text{B)}\\ & f(x)=x^{3}+5 x+1  \\\\\n\\text{C)}\\ & f(x)=-3 x^{5}+2 x^{3}+9 x-4 &\n\\text{D)}\\ & f(x)=-2(x-7)^{2}+4\\\\\n\\text{E)}\\ & f(x)=-3 x+2 &\n\\text{F)}\\ & f(x)=(x-8)^{2}+2\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "201": {
+        "content": "Which of the following is true about the function \\( f(x) = x^5 + 3x^4 + 9x^3 - 23x^2 - 36 \\)?\n\n\\begin{enumerate}\n\\item[I)] \\( f(x) \\) has five real roots.\n\\item[II)] \\( f(x) \\) has three imaginary roots.\n\\item[III)] \\( f(x) \\) has a double root.\n\\item[IV)] As \\( x \\to \\infty, f(x) \\to \\infty \\)\n\\end{enumerate}\n\n\\noindent Options:\\\\\nA) I, II, IV\\\\\nB) II and III\\\\\nC) III and IV\\\\\nD) II and IV",
+        "answer": ""
+    },
+    "202": {
+        "content": "Simplify the expression: $\\frac{3 x^{2}}{2 x^{-1}} \\cdot \\frac{y^{2}}{6 x^{2} y}$\n\\begin{align*}\n\\text{A)}\\ & \\frac{x y}{4}  &\n\\text{B)}\\ & \\frac{4 x}{y} \\\\\n\\text{C)}\\ & \\frac{y}{4 x} &\n\\text{D)}\\ & \\frac{4}{x y}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "203": {
+        "content": "Solve the equation $-2(3 x+2)^{\\frac{3}{2}}=-54$ for the variable $x$.\n\\begin{align*}\n\\text{A)}\\ & x=9 &\n\\text{B)}\\ & x=\\frac{5}{6} \\\\\n\\text{C)}\\ & x=\\frac{23}{6} &\n\\text{D)}\\ & x=\\frac{7}{3} \\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "204": {
+        "content": "Where is the hole in the graph of the function $f(x)=\\frac{x^{2}+x-6}{x+3}$?\n\\begin{align*}\n\\text{A)}\\ & (3,1) &\n\\text{B)}\\ & (-3,0) \\\\\n\\text{C)}\\ & (-3,-6) &\n\\text{D)}\\ & (-3,-5)\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "205": {
+        "content": "What is the horizontal asymptote of the function $f(x)=\\frac{2 x^{3}+2}{x^{2}-16}$?\n\\begin{align*}\n\\text{A)}\\ & y=4 \\ and \\ y=4 &\n\\text{B)}\\ &  y=2\\\\\n\\text{C)}\\ & y=0 &\n\\text{D)}\\ & \\text{ no horizontal asymptotes} \\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "206": {
+        "content": "Determine any domain restriction(s) given the expression $\\frac{x^{2}-9}{x^{2}-3 x-18}$.\n\\begin{align*}\n\\text{A)}\\ & x=3\\ and \\ x=-3 &\n\\text{B)}\\ & x=6 \\ and \\ x=-3 \\\\\n\\text{C)}\\ & x=6 &\n\\text{D)}\\ & x=\\frac{1}{2}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "207": {
+        "content": "Simplify the rational expression $\\frac{n^2+2n-24}{n^2-11n+28}$\n\\begin{align*}\n\\text{A)}\\ & \\frac{n+6}{n-7} &\n\\text{B)}\\ &  \\frac{n+6}{n-4}\\\\\n\\text{C)}\\ & \\frac{n+6}{n+7} &\n\\text{D)}\\ & \\frac{n-4}{n-7}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "208": {
+        "content": "Simplify the rational expression. $\\frac{\\frac{x+8}{x^2-64}}{\\frac{4}{(x+8)(x-8)}}$\n\n\\begin{align*}\n\\text{A)}\\ & x+2 &\n\\text{B)}\\ &  \\frac{4(x+8)}{(x^2-64)^2}\\\\\n\\text{C)}\\ & \\frac{x+8}{4} &\n\\text{D)}\\ & \\frac{1}{4}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "209": {
+        "content": "Simplify the expression: \\(5\\sqrt{2} - 3\\sqrt{8} + 2\\sqrt{18}\\).\n\n\\noindent Options:\\\\\nA) \\(5\\sqrt{2}\\)\\\\\nB) \\(-\\sqrt{2} + 6\\sqrt{3}\\)\\\\\nC) \\(5\\sqrt{2} - 12\\sqrt{2} + 6\\sqrt{2}\\)\\\\\nD) \\(-\\sqrt{2}\\)",
+        "answer": ""
+    },
+    "210": {
+        "content": "Which expression is the simplest form of $4 \\sqrt[3]{32}-\\sqrt[3]{32}$ ?\n\\begin{align*}\n\\text{A)}\\ & 3 \\sqrt[3]{4} &\n\\text{B)}\\ &  6 \\sqrt[3]{4}\\\\\n\\text{C)}\\ & 3 \\sqrt[3]{32} &\n\\text{D)}\\ & 16 \\sqrt[3]{2}-4\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "211": {
+        "content": "What is the simplified form of the expression $\\sqrt{98 x^{3} y^{5} z}$ ?\n\\begin{align*}\n\\text{A)}\\ & 2 x y z \\sqrt{7 x y z} &\n\\text{B)}\\ &  7 x^{2} y^{2} \\sqrt{2 y z}\n\\\\\n\\text{C)}\\ & 7 x y^{2} \\sqrt{2 x y z}  &\n\\text{D)}\\ &49 x y^{2} \\sqrt{2 x y z} \\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "212": {
+        "content": "Evaluate each of the following expressions.\na) $\\log _{4} \\frac{1}{64}=? $\\ \nb) $\\log _{5} 625=? $",
+        "answer": ""
+    },
+    "213": {
+        "content": "Jasmine invests $\\$ 2,658$ in a retirement account with a fixed annual interest rate of $9 \\%$ compounded continuously. What will the account balance be after 15 years?",
+        "answer": ""
+    },
+    "214": {
+        "content": "Remy invests $\\$ 8,589$ in a retirement account with a fixed annual interest rate of $7 \\%$ compounded continuously. How long will it take for the account balance to reach $\\$ 21,337.85$ ?",
+        "answer": ""
+    },
+    "215": {
+        "content": "Solve $\\sqrt{x^{2}+2 x-6}=\\sqrt{x^{2}-14}$",
+        "answer": ""
+    },
+    "216": {
+        "content": "In $\\triangle \\mathrm{ABC}, \\mathrm{AB}=10 \\mathrm{~cm}, \\angle \\mathrm{B}=90^{\\circ}$, and $\\angle \\mathrm{C}=60^{\\circ}$. Determine the length of $\\mathrm{BC}$.\n\\begin{align*}\n\\text{A)}\\ & 10 \\mathrm{~cm} &\n\\text{B)}\\ &  10 \\sqrt{3} \\mathrm{~cm}\\\\\n\\text{C)}\\ &  \\frac{10 \\sqrt{3}}{3} \\mathrm{~cm} &\n\\text{D)}\\ & 20 \\mathrm{~cm}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "217": {
+        "content": "If the length of the shorter leg of a $30^{\\circ}-60^{\\circ}-90^{\\circ}$ triangle is $5 \\sqrt{3}$, then the length of the longer leg is\n\\begin{align*}\n\\text{A)}\\ & 10 &\n\\text{B)}\\ & 10 \\sqrt{3} \\\\\n\\text{C)}\\ & 10 \\sqrt{6}  &\n\\text{D)}\\ & 15\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "218": {
+        "content": "If the sides of a triangle are 6,7 , and 9, then the triangle is\n\\begin{align*}\n\\text{A)}\\ & \\text{a} \\ 45^{\\circ}-45^{\\circ}-90^{\\circ} \\ \\text{triangle} &\n\\text{B)}\\ &  \\text{an acute triangle}\\\\\n\\text{C)}\\ &  \\text{an obtuse triangle} &\n\\text{D)}\\ & \\text{a right triangle}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "219": {
+        "content": "The \\_\\_\\_\\_\\_ ratio compares the length of the adjacent leg to the length of the hypotenuse \n\\begin{align*}\n\\text{A)}\\ & sine &\n\\text{B)}\\ & cosine  \\\\\n\\text{C)}\\ & tangent  &\n\\text{D)}\\ & \\text{none of the above}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "220": {
+        "content": "Which of the following forms a right triangle?\n\\begin{align*}\n\\text{A)}\\ & \\sqrt{4},\\sqrt{9},\\sqrt{25} &\n\\text{B)}\\ & 1,2,3  \\\\\n\\text{C)}\\ & 5,11,13  &\n\\text{D)}\\ & 3,4,5\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "221": {
+        "content": "Find the length of the diagonal of a square whose perimeter measures 28 cm.\n\\begin{align*}\n\\text{A)}\\ & 7 \\ cm &\n\\text{B)}\\ & 7\\sqrt{2} \\ cm  \\\\\n\\text{C)}\\ & 7\\sqrt{3} \\ cm  &\n\\text{D)}\\ & 28\\sqrt{2}\\  cm\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "222": {
+        "content": "Which of the following transformations creates a figure that is similar (but not congruent) to the original figure?\n\\begin{align*}\n\\text{A)}\\ & Dilation &\n\\text{B)}\\ & Rotation  \\\\\n\\text{C)}\\ & Translation &\n\\text{D)}\\ & Reflection\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "223": {
+        "content": "What is the image of the point (4, \u20132) after a dilation of 3?\n\\begin{align*}\n\\text{A)}\\ & (12,-6) &\n\\text{B)}\\ & (7,1)  \\\\\n\\text{C)}\\ & (1,-5) &\n\\text{D)}\\ & (\\frac{4}{3},-\\frac{2}{3})\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "224": {
+        "content": "What is the center of the circle whose equation is $(x-1)^2+(y+3)^2=25$?\n\\begin{align*}\n\\text{A)}\\ & (-1,3) &\n\\text{B)}\\ & (3,-1)  \\\\\n\\text{C)}\\ & (1,-3) &\n\\text{D)}\\ & (-3,1)\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "225": {
+        "content": "A \\_\\_\\_\\_\\_ is a quadrilateral with two pairs of congruent adjacent sides and no congruent opposite sides.\n\\begin{align*}\n\\text{A)}\\ & Rectangle &\n\\text{B)}\\ & Rhombus  \\\\\n\\text{C)}\\ & Kite &\n\\text{D)}\\ & Trapezoid\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "226": {
+        "content": "Find the number of sides of a convex polygon if the measures of its interior angles have a sum of $2340^{\\circ}$.\n\n\\begin{align*}\n\\text{A)}\\ & 13 &\n\\text{B)}\\ & 11  \\\\\n\\text{C)}\\ & 15 &\n\\text{D)}\\ & 7\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "227": {
+        "content": "The base of a square pyramid has sides of 10 and the slant height is 15.  Find the surface area of the pyramid.\n\n\\begin{align*}\n\\text{A)}\\ & 85 &\n\\text{B)}\\ & 220  \\\\\n\\text{C)}\\ & 310 &\n\\text{D)}\\ & 400\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "228": {
+        "content": "Find the volume of a cone, to the nearest cubic inch, whose radius is 12 inches and whose height is 15 inches.\n\\begin{align*}\n\\text{A)}\\ & 2827 &\n\\text{B)}\\ & 2262  \\\\\n\\text{C)}\\ & 565 &\n\\text{D)}\\ & 188\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "229": {
+        "content": "Find the volume of a hemisphere (half a sphere) whose radius is 10 feet.  Round the answer to the nearest cubic foot.\n\\begin{align*}\n\\text{A)}\\ & 419 &\n\\text{B)}\\ & 1047  \\\\\n\\text{C)}\\ & 2094 &\n\\text{D)}\\ & 4189\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "230": {
+        "content": "The ratio of the volumes of two similar spheres is 8 : 27.  If the larger sphere\u2019s volume is 135 cm3, what is the volume of the smaller solid?\n\\begin{align*}\n\\text{A)}\\ & 90{cm}^3 &\n\\text{B)}\\ & 40{cm}^3  \\\\\n\\text{C)}\\ & 80cm^3 &\n\\text{D)}\\ & 50cm^3\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "231": {
+        "content": "Two circles have areas of $49\\pi \\ in.^2$ and $144\\pi\\  in.^2$. What is the ratio of their radii? \n\\begin{align*}\n\\text{A)}\\ & 49:144 &\n\\text{B)}\\ & 49\\pi:144\\pi  \\\\\n\\text{C)}\\ & 7:12 &\n\\text{D)}\\ & 343:1728\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "232": {
+        "content": "Evaluate: $\\log_5{125} = $\n\\begin{align*}\n\n\\text{A)}\\ & 25 &\n\\text{B)}\\ & 2  \\\\\n\\text{C)}\\ & 3  &\n\\text{D)}\\ & 1\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "233": {
+        "content": "Express the logarithmic equation as an exponential equation and solve: \\(\\log_4 \\frac{1}{64} = x\\)\n\n\\noindent Options:\\\\\nA) \\( x^4 = \\frac{1}{64}; x = -3 \\)\\\\\nB) \\( 4^x = \\frac{1}{64}; x = -3 \\)\\\\\nC) \\( 64^x = \\frac{1}{4}; x = -3 \\)\\\\\nD) \\( \\left(-\\frac{1}{4}\\right)^x = 64; x = -\\frac{1}{3} \\)",
+        "answer": ""
+    },
+    "234": {
+        "content": "Use the fact that $255^{\\circ} = 210^{\\circ} + 45^{\\circ}$ to determine the \\textit{\\underline{exact}} value of $sin 255^{\\circ}$.\n\\begin{align*}\n\\text{A)}\\ & \\frac{\\sqrt{6}-\\sqrt{2}}{4} & \n\\text{B)}\\ & \\frac{-\\sqrt{2}-\\sqrt{6}}{4} \\\\\n\\text{C)}\\ & -\\frac{1}{2} &\n\\text{D)}\\ & \\frac{1}{2} \\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "235": {
+        "content": "Find the \\underline{exact} value for $sin2\\theta$  given that   $sin\\theta = -\\frac{12}{13}$ and $\\pi\\leq\\theta\\leq\\frac{3\\pi}{2}$ . \n\\begin{align*}\n\\text{A)}\\ & \\frac{119}{169} &\n\\text{B)}\\ & -\\frac{119}{169}  \\\\\n\\text{C)}\\ & \\frac{120}{169}  &\n\\text{D)}\\ & -\\frac{120}{169}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "236": {
+        "content": "Solve $7sinx+15=6sinx+14$ where $0\\leq x \\leq 2\\pi$. \n\\begin{align*}\n\\text{A)}\\ & 0 &\n\\text{B)}\\ & \\frac{\\pi}{2}  \\\\\n\\text{C)}\\ & \\pi &\n\\text{D)}\\ & \\frac{3\\pi}{2}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "237": {
+        "content": "Solve \\( \\cos^2\\theta - 3\\cos\\theta - 4 = 0 \\) where \\( 0 \\leq \\theta < 2\\pi \\).\n\n\\noindent Options:\\\\\nA) \\( 0 \\)\\\\\nB) \\( \\frac{\\pi}{2} \\)\\\\\nC) \\( \\pi \\)\\\\\nD) \\( \\frac{3\\pi}{2} \\)",
+        "answer": ""
+    },
+    "238": {
+        "content": "Which of the following is \\underline{not} a type of discontinuity? \n\\begin{align*}\n\\text{A)}\\ & jump &\n\\text{B)}\\ & hole  \\\\\n\\text{C)}\\ & horizontal \\ asymptote &\n\\text{D)}\\ & vertical \\ asymptote\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "239": {
+        "content": "Determine any points of discontinuity for $f(x)=\\frac{x(x-5)}{(x-3)(x-5)}$\n\\begin{align*}\n\\text{A)}\\ & 0 &\n\\text{B)}\\ & 3  \\\\\n\\text{C)}\\ & 3,5 &\n\\text{D)}\\ & 0,3,5\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "240": {
+        "content": "The synthetic division problem below proves which fact about $f(x)=x^4-3x^3+7x^2-60x-130$?\\\\\n\\[\n\\begin{array}{r|rrrrr}\n  15& 1 & -3 & 7 & -60 & -130 \\\\\n    &   & 5 & 10  & 85 & 125\\\\\n\\hline\n    & 1 & 2 & 17  & 25 & -5\\\\\n\\end{array}\n\\]\n\n\\begin{align*}\n\\text{A)}\\ &  \\text{ 5 is a root of f(x)} &\n\\text{B)}\\ &   \\text{x-5 is a factor of f(x)}\\\\\n\\text{C)}\\ &  f(5)=-5 &\n\\text{D)}\\ & x^3+2x^2+17x+25 \\text{ is a factor of } f(x)\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "241": {
+        "content": "Find the domain of $f(x)=log(x-5)$\n\\begin{align*}\n\\text{A)}\\ & x>0 &\n\\text{B)}\\ &  x<5\\\\\n\\text{C)}\\ & x>5  &\n\\text{D)}\\ & \\text{all real numbers}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "242": {
+        "content": "Identify the x and y \u2013intercepts, if any, of the equation $y=\\frac{-1}{x+1}+4$\n\\begin{align*}\n\\text{A)}\\ & \\text{x-int: }-1, \\text{y-int: None} &\n\\text{B)}\\ &  \\text{x-int: None, y-int: }3\\\\\n\\text{C)}\\ &  \\text{x-int: }-\\frac{3}{4},  \\text{y-int: } 3 &\n\\text{D)}\\ & \\text{x-int:-1, y-int: }4\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "243": {
+        "content": "Find the first term and the common difference of the arithmetic sequence described: $8^{th}$ term $= 8$  ;  $20^{th}$ term $= 44$\n\\begin{align*}\n\\text{A)}\\ & a_1=-13; d=3  &\n\\text{B)}\\ & a_1=-10, d=3 \\\\\n\\text{C)}\\ &  a_1=-13, d=-3 &\n\\text{D)}\\ & a_1=-16, d=-3\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "244": {
+        "content": "Which of the following is the equation of the horizontal asymptote of the graph of the function \\( f(x) = \\frac{4x^2}{x^3 - 5} \\)?\n\n\\noindent Options:\\\\\nA) \\( x = \\frac{2}{5} \\)\\\\\nB) \\( x = 5 \\)\\\\\nC) \\( y = 0 \\)\\\\\nD) \\( y = 4 \\)",
+        "answer": ""
+    },
+    "245": {
+        "content": "Simplify: \\( \\log_3 2 + \\log_3 4 - 3\\log_3 5 \\)\n\n\\noindent Options:\\\\\nA) \\( \\log_3 (-119) \\)\\\\\nB) \\( \\log_3 \\left(\\frac{8}{25}\\right) \\)\\\\\nC) \\( \\log_3 \\left(\\frac{2}{5}\\right) \\)\\\\\nD) non-real answer",
+        "answer": ""
+    },
+    "246": {
+        "content": "Find: $\\tan ^{-1}\\left[\\tan \\left(\\frac{2 \\pi}{3}\\right)\\right] \\tan ^{-1}\\left[\\tan \\left(\\frac{2 \\pi}{3}\\right)\\right]$\n\\begin{align*}\n\\text{A)}\\ & \\frac{2 \\pi}{3} &\n\\text{B)}\\ & -\\frac{\\pi}{3} \\\\\n\\text{C)}\\ & \\frac{\\pi}{3}  &\n\\text{D)}\\ & \\text{undefined}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "247": {
+        "content": "Find: $\\sin \\left[\\sin ^{-1}(-2)\\right]$\n\\begin{align*}\n\\text{A)}\\ & 2 &\n\\text{B)}\\ & -2 \\\\\n\\text{C)}\\ & -\\frac{1}{2}  &\n\\text{D)}\\ & \\text{undefined}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "248": {
+        "content": "$\\sin ^{2} x-1=$\\_\\_\\_\\_\\_\n\\begin{align*}\n\\text{A)}\\ & \\cos ^{2} x &\n\\text{B)}\\ &  -\\cos ^{2} x\\\\\n\\text{C)}\\ & \\csc ^{2} x  &\n\\text{D)}\\ & -\\csc ^{2} x \\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "249": {
+        "content": "$\\cos ^{-1}\\left(\\frac{1}{2}\\right)=$\n\\begin{align*}\n\\text{A)}\\ & \\frac{\\pi}{6} &\n\\text{B)}\\ & \\frac{\\pi}{4} \\\\\n\\text{C)}\\ &  \\frac{\\pi}{3} &\n\\text{D)}\\ & \\frac{\\pi}{2}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "250": {
+        "content": "Over the interval $[0,2 \\pi)$, solve: $2 \\sin x-\\sqrt{3}=0$\n\\begin{align*}\n\\text{A)}\\ & \\frac{\\pi}{6} &\n\\text{B)}\\ &  \\frac{\\pi}{6}, \\frac{11 \\pi}{6}\\\\\n\\text{C)}\\ &  \\frac{\\pi}{3} &\n\\text{D)}\\ & \\frac{\\pi}{3}, \\frac{11 \\pi}{3}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "251": {
+        "content": "$\\tan ^{-1}\\left[\\tan \\left(\\frac{5 \\pi}{4}\\right)\\right]=$\n\n\\begin{align*}\n\\text{A)}\\ & \\frac{5 \\pi}{4} &\n\\text{B)}\\ & \\frac{\\pi}{4} \\\\\n\\text{C)}\\ &  1 &\n\\text{D)}\\ & -1 \\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "252": {
+        "content": "What is the exact value of $\\cos 22.5^{\\circ}$ ?\n\\begin{align*}\n\\text{A)}\\ & \\frac{\\sqrt{2+\\sqrt{2}}}{2}  &\n\\text{B)}\\ & -\\frac{\\sqrt{2+\\sqrt{2}}}{2} \\\\\n\\text{C)}\\ &  \\frac{\\sqrt{2-\\sqrt{2}}}{2} &\n\\text{D)}\\ & -\\frac{\\sqrt{2-\\sqrt{2}}}{2}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "253": {
+        "content": "Which one is a solution to the equation: $\\sqrt{3} \\tan x+1=0$\n\\begin{align*}\n\\text{A)}\\ & \\frac{-\\pi}{3} &\n\\text{B)}\\ &  \\frac{\\pi}{6}\\\\\n\\text{C)}\\ &  \\frac{5 \\pi}{6} &\n\\text{D)}\\ & \\frac{2 \\pi}{3}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "254": {
+        "content": "Calculate the coefficient of $x^2$ in the expansion of  \n$(x-3)^{5}$\n\\begin{align*}\n\\text{A)}\\ & 270 &\n\\text{B)}\\ & 90 \\\\\n\\text{C)}\\ & -17  &\n\\text{D)}\\ & -270\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "255": {
+        "content": "What is the expansion of the polynomial $(x-2)^{4}$ ?\n\\begin{align*}\n\\text{A)}\\ & x^{4}+16  &\n\\text{B)}\\ & x^{4}-8 x^{3}+24 x^{2}-32 x+16 \\\\\n\\text{C)}\\ &  x^{4}-16 x^{3}+32 x^{2}-32 x+16 &\n\\text{D)}\\ & x^{4}+4 x^{3}+6 x^{2}+4 x+1\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "256": {
+        "content": "Find the sum. \\( \\sum_{n=1}^{10} 4n - 5 \\)\n\n\\noindent Options:\\\\\nA) \\( 235 \\)\\\\\nB) \\( 35 \\)\\\\\nC) \\( 36 \\)\\\\\nD) \\( 170 \\)",
+        "answer": ""
+    },
+    "257": {
+        "content": "Find the sum. \\( \\sum_{k=1}^{\\infty} 6 \\left(-\\frac{2}{3}\\right)^{k-1} \\)\n\n\\noindent Options:\\\\\nA) \\( 0.6 \\)\\\\\nB) \\( -0.6 \\)\\\\\nC) \\( 3.6 \\)\\\\\nD) \\( -3.6 \\)",
+        "answer": ""
+    },
+    "258": {
+        "content": "Given $\\triangle A B C$, where $\\angle \\mathrm{A}=41^{\\circ}, \\angle \\mathrm{B}=58^{\\circ}$, and $\\mathrm{c}=19.7 \\mathrm{~cm}$, determine the measure of side $\\mathrm{b}$.\n\\begin{align*}\n\\text{A)}\\ & \\text{not possible} &\n\\text{B)}\\ &  16.91 \\mathrm{~cm} \\\\\n\\text{C)}\\ & 0.89 \\mathrm{~cm}  &\n\\text{D)}\\ & 12.94 \\mathrm{~cm}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "259": {
+        "content": "Given $\\triangle A B C$, where $\\mathrm{a}=9, \\mathrm{~b}=12$, and $\\mathrm{c}=16$, determine the measure of angle $\\mathrm{B}$. Round to the nearest tenth.\n\\begin{align*}\n\\text{A)}\\ & \\text{not possible} &\n\\text{B)}\\ & 132.1^{\\circ} \\\\\n\\text{C)}\\ & 47.9^{\\circ}  &\n\\text{D)}\\ & 1^{\\circ}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "260": {
+        "content": "In $\\triangle A B C, A=47^{\\circ}, B=56^{\\circ}$, and $c=14$, find $b$.\n\n\\begin{align*}\n\\text{A)}\\ &  77&\n\\text{B)}\\ & 7.9 \\\\\n\\text{C)}\\ &   10.5&\n\\text{D)}\\ & 11.9\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "261": {
+        "content": "Evaluate \\( \\tan(\\alpha - \\beta) \\) given: \\( \\tan\\alpha = -\\frac{4}{3}, \\frac{\\pi}{2} < \\alpha < \\pi \\) and \\( \\cos\\beta = \\frac{1}{2}, 0 < \\beta < \\frac{\\pi}{2} \\).\n\n\\noindent Options:\\\\\nA) \\( \\frac{25\\sqrt{3} + 48}{39} \\)\\\\\nB) \\( -\\frac{25\\sqrt{3} + 48}{39} \\)\\\\\nC) \\( \\frac{16 + 7\\sqrt{3}}{47} \\)\\\\\nD) \\( -\\frac{16 + 7\\sqrt{3}}{47} \\)",
+        "answer": ""
+    },
+    "262": {
+        "content": "Evaluate $p(x)=x^{3}+x^{2}-11 x+12$ for $x=2$.",
+        "answer": ""
+    },
+    "263": {
+        "content": "Write $\\ln \\frac{x^{2}\\left(y^{2}-z\\right)^{3}}{\\sqrt{y+1}}$ as the sum and/or difference of logarithms. Express powers as factors.",
+        "answer": ""
+    },
+    "264": {
+        "content": "Rewrite the following as the log of a single expression and simplify.\n$$\n\\frac{1}{3} \\log 125+2 \\log (x-1)-3 \\log (x+4)\n$$",
+        "answer": ""
+    },
+    "265": {
+        "content": "Solve $27^{3 x}=81$ for $x$.",
+        "answer": ""
+    },
+    "266": {
+        "content": "Use long division to divide $f(x)=6 x^{3}-x^{2}-5 x+2$ by $3 x-2$.",
+        "answer": ""
+    },
+    "267": {
+        "content": "A culture of bacteria obeys the law of uninhibited growth. If 500 bacteria are present initially and there are 800 after 1 hour, how many will be present after 5 hours?",
+        "answer": ""
+    },
+    "268": {
+        "content": "If \\( f(x) \\) is the function given by \\( f(x) = e^{3x} + 1 \\), at what value of \\( x \\) is the slope of the tangent line to \\( f(x) \\) equal to 2?\n\n\\noindent Options:\\\\\nA) \\( -0.173 \\)\\\\\nB) \\( 0 \\)\\\\\nC) \\( -0.135 \\)\\\\\nD) \\( -0.366 \\)\\\\\nE) \\( 0.231 \\)",
+        "answer": ""
+    },
+    "269": {
+        "content": "Which of the following is an equation for a line tangent to the graph of \\( f(x) = e^{3x} \\) when \\( f'(x) = 9 \\)?\n\n\\noindent Options:\\\\\nA) \\( y = 3x + 2.633 \\)\\\\\nB) \\( y = 9x - 0.366 \\)\\\\\nC) \\( y = 9x - 0.295 \\)\\\\\nD) \\( y = 3x - 0.295 \\)\\\\\nE) None of these",
+        "answer": ""
+    },
+    "270": {
+        "content": "If $f^{\\prime}(x)=\\ln x-x+2$, at which of the following values of $x$ does $f$ have a relative maximum value?\n\\begin{align*}\n\\text{A)}\\ & 3.146 &\n\\text{B)}\\ & 0.159 \\\\\n\\text{C)}\\ & 1.000&\n\\text{D)}\\ & 4.505 \\\\\n\\text{E)}\\ & \\text{None of these}\\\\\n\\end{align*}",
+        "answer": ""
+    },
+    "271": {
+        "content": "\\( \\int \\frac{4x}{16+x^4} \\,dx = \\)\n\n\\noindent Options:\\\\\nA) \\( \\frac{1}{4} \\sec^{-1} \\frac{x^2}{4} + C \\)\\\\\nB) \\( \\frac{1}{2} \\tan^{-1} \\frac{x^2}{4} + C \\)\\\\\nC) \\( \\frac{1}{8} \\sec^{-1} \\frac{x^2}{4} + C \\)\\\\\nD) \\( 2 \\tan^{-1} \\frac{x^2}{4} + C \\)\\\\\nE) None of these",
+        "answer": ""
+    },
+    "272": {
+        "content": "If $f(x)=3 x^{2}-x$, and $g(x)=f^{-1}(x)$ over the domain $[0, \\infty)$, then $g^{\\prime}(10)$ could be which of the following?\n\\begin{align*}\n\\text{A)}\\ & 59 &\n\\text{B)}\\ & \\frac{1}{59} \\\\\n\\text{C)}\\ & \\frac{1}{10}  &\n\\text{D)}\\ & 11\\\\\n\\text{E)}\\ & \\frac{1}{11}&\n\\end{align*}",
+        "answer": ""
+    },
+    "273": {
+        "content": "Find the distance traveled in the first four seconds for a particle whose velocity is given by $v(t)=7 e^{-t^{2}}$, where $t$ stands for time.\n\\begin{align*}\n\\text{A)}\\ &  0.976 &\n\\text{B)}\\ & 6.204 \\\\\n\\text{C)}\\ &  6.359 &\n\\text{D)}\\ & 12.720\\\\\n\\text{E)}\\ & 7.000 &\n\\end{align*}",
+        "answer": ""
+    },
+    "274": {
+        "content": "Find $\\lim _{x \\rightarrow 0}-\\frac{\\sin (5 x)}{\\sin (4 x)}$\n\\begin{align*}\n\\text{A)}\\ & 0 &\n\\text{B)}\\ &  1\\\\\n\\text{C)}\\ & -5/4  &\n\\text{D)}\\ & 5/4 \\\\\n\\text{E)}\\ & \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "275": {
+        "content": "Find the area $\\mathrm{R}$ bounded by the graphs of $y=\\sqrt{x}$ and $y=x^{2}$\n\\begin{align*}\n\\text{A)}\\ & 0.333 &\n\\text{B)}\\ & -0.333 \\\\\n\\text{C)}\\ &  1.000 &\n\\text{D)}\\ & -1.000\\\\\n\\text{E)}\\ & \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "276": {
+        "content": "\\[\n\\frac{d}{dx} \\int_{0}^{3x} \\cos(t) \\, dt =\n\\]\n\n\\noindent Options:\\\\\nA) \\( \\sin 3x \\)\\\\\nB) \\( -\\sin 3x \\)\\\\\nC) \\( \\cos 3x \\)\\\\\nD) \\( 3 \\sin 3x \\)\\\\\nE) \\( 3 \\cos 3x \\)",
+        "answer": ""
+    },
+    "277": {
+        "content": "The average value of the function $f(x)=(x-1)^{2}$ on the interval [1,5] is:\n\\begin{align*}\n\\text{A)}\\ & -\\frac{16}{3} &\n\\text{B)}\\ & \\frac{16}{3} \\\\\n\\text{C)}\\ & \\frac{64}{5}  &\n\\text{D)}\\ & \\frac{66}{3}\\\\\n\\text{E)}\\ & \\frac{256}{3}  &\n\\end{align*}",
+        "answer": ""
+    },
+    "278": {
+        "content": "Write the following expression as a logarithm of a single quantity: $\\ln x-12 \\ln \\left(x^{2}-1\\right)$\n\\begin{align*}\n\\text{A)}\\ &  \\ln \\left(\\frac{x}{\\left(x^{2}-1\\right)^{-12}}\\right)&\n\\text{B)}\\ &  \\ln \\left(\\frac{x}{12\\left(x^{2}-1\\right)}\\right)\\\\\n\\text{C)}\\ & \\ln \\left(x-12\\left(x^{2}-1\\right)\\right)  &\n\\text{D)}\\ & \\ln \\left(\\frac{x}{\\left(x^{2}-1\\right)^{12}}\\right)\\\\\n\\text{E)}\\ &  \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "279": {
+        "content": "Find an equation of the tangent line to the graph of $y=\\ln \\left(x^{2}\\right)$ at the point $(1,0)$.\n\\begin{align*}\n\\text{A)}\\ & y=x-2 &\n\\text{B)}\\ & \\mathrm{y}=2(x+1) \\\\\n\\text{C)}\\ &  y=2(x-1) &\n\\text{D)}\\ & y=x-1 \\\\\n\\text{E)}\\ &  \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "280": {
+        "content": "Find the area $\\mathrm{R}$ bounded by the graphs of $y=x$ and $y=x^{2}$\n\\begin{align*}\n\\text{A)}\\ & \\frac{1}{6}  &\n\\text{B)}\\ & \\frac{1}{2} \\\\\n\\text{C)}\\ & \\frac{-1}{6}  &\n\\text{D)}\\ & \\frac{-1}{2}\\\\\n\\text{E)}\\ &  \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "281": {
+        "content": "Find the indefinite integral: $\\int \\frac{x}{-2 x^{2}+3} d x$\n\n\\begin{align*}\n\\text{A)}\\ & \\frac{1}{-4 x}+C &\n\\text{B)}\\ &  \\ln \\left|-2 x^{2}+3\\right|+C\\\\\n\\text{C)}\\ & \\frac{-1}{4} \\ln \\left|-2 x^{2}+3\\right|+C  &\n\\text{D)}\\ & \\frac{\\ln \\left|-2 x^{2}+3\\right|}{-2 x^{2}+3}+C\\\\\n\\text{E)}\\ &  \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "282": {
+        "content": "Find the indefinite integral: $\\int x \\ln (x) d x$\n\\begin{align*}\n\\text{A)}\\ & \\frac{(\\ln x)^{2}}{x}+C &\n\\text{B)}\\ & \\frac{x^{2} \\ln (x)}{2}-\\frac{x^{2}}{4}+C \\\\\n\\text{C)}\\ & x \\ln (x)+C  &\n\\text{D)}\\ & \\ln (x)+1+C\\\\\n\\text{E)}\\ &  \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "283": {
+        "content": "Using the substitution $u=2 x+1, \\int_{0}^{2} \\sqrt{2 x+1} d x$ is equivalent to which of the following?\n\\begin{align*}\n\\text{A)}\\ & \\frac{1}{2} \\int_{-\\frac{1}{2}}^{\\frac{1}{2}} \\sqrt{u} &\n\\text{B)}\\ & \\frac{1}{2} \\int_{0}^{2} \\sqrt{u} d u  \\\\\n\\text{C)}\\ &  \\frac{1}{2} \\int_{1}^{5} \\sqrt{u} d u &\n\\text{D)}\\ & \\int_{0}^{2} \\sqrt{u} d u\\\\\n\\text{E)}\\ &  \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "284": {
+        "content": "Region $R$ is the area bounded by the graphs of $y=x$ and $y=x^{3}$. Find the volume of the solid generated when $R$ is revolved about the $x$-axis.\n\\begin{align*}\n\\text{A)}\\ & \\frac{\\pi}{3} &\n\\text{B)}\\ &  \\frac{21 \\pi}{4}\\\\\n\\text{C)}\\ &  \\frac{4 \\pi}{21} &\n\\text{D)}\\ & 3 \\pi\\\\\n\\text{E)}\\ &  \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "285": {
+        "content": "Find the indefinite integral: $\\int x e^{2 x} d x$\n\\begin{align*}\n\\text{A)}\\ & \\frac{e^{2 x}}{x}+\\frac{x}{e^{2 x}}+C &\n\\text{B)}\\ &  \\frac{\\ln (x)}{e}+C\\\\\n\\text{C)}\\ &  \\frac{x}{e^{2 x}}+C &\n\\text{D)}\\ & \\frac{x e^{2 x}}{2 x}-\\frac{e^{2 x}}{4}+C\\\\\n\\text{E)}\\ &  \\text{None of these}&\n\\end{align*}",
+        "answer": ""
+    },
+    "286": {
+        "content": "$\\int x \\sqrt{x+3} d x=$\n\\begin{align*}\n\\text{A)}\\ & \\frac{2}{3} x^{\\frac{3}{2}}+6 x^{\\frac{1}{2}}+C &\n\\text{B)}\\ &  \\frac{2(x+3)^{\\frac{3}{2}}}{3}+C\\\\\n\\text{C)}\\ &  \\frac{3(x+3)^{\\frac{3}{2}}}{2}+C &\n\\text{D)}\\ & \\frac{4 x^{2}(x+3)^{\\frac{3}{2}}}{3}+C\\\\\n\\text{E)}\\ & \\frac{2}{5}(x+3)^{\\frac{5}{2}}-2(x+3)^{\\frac{3}{2}}+C &\n\\end{align*}",
+        "answer": ""
+    },
+    "287": {
+        "content": "Consider the differential equation $\\frac{dy}{dx} = \\frac{y-1}{x^3}$, where $x\\neq 0$. Find the general solution $y=f(x)$ to the differential equation.",
+        "answer": ""
+    },
+    "288": {
+        "content": "Compute the determinant of the matrix\n\\[\nB = \\begin{pmatrix}\n3 & 0 & 2 \\\\\n2 & 0 & -2 \\\\\n0 & 1 & 1\n\\end{pmatrix}.\n\\]",
+        "answer": ""
+    },
+    "289": {
+        "content": "Let\n\\[\nA = \\begin{pmatrix}\na &0 & c &b\\\\\n1 & 0 &1 & 3\\\\\n2 & 1 & -1 & 4\\\\\n0 & 1 & 1& 5\n\\end{pmatrix}.\n\\]\nand $A_{ij}$ be the algebraic cofactors of $A$. Compute $A_{11}+A_{12}+A_{13}+A_{14}.$",
+        "answer": ""
+    },
+    "290": {
+        "content": "Find the solution $[x_1,x_2,x_3]$ to the following equations\n\\[\n\\left\\{\\begin{array}{c}\n  x_1+3x_2+3x_3=16, \\\\\n  3x_1+x_2+3x_3=14, \\\\\n  3x_1+3x_2+x_3=12. \\\\\n\\end{array}\\right.\n\\]",
+        "answer": ""
+    },
+    "291": {
+        "content": "Find the positively definite matrix $A\\in \\mathbb{R}^{3\\times 3}$ such that\n\\[\nA^2 = \\begin{pmatrix}\n11&7 & 7 \\\\\n7 &11 &7\\\\\n7 &7 & 11\\\\\n\\end{pmatrix}.\n\\]\nIn your answer, present the matrix in the form of $[a_{11},a_{12},a_{13}; a_{21},a_{22},a_{23}; a_{31},a_{32},a_{33} ]$",
+        "answer": ""
+    },
+    "292": {
+        "content": "Compute the volume of the triangular pyramid\n generated by four points $(1,1,1),(2,5,5), $  $(5,2,5) $, and $(5,5,2)$ in $\\mathbb{R}^3.$",
+        "answer": ""
+    },
+    "293": {
+        "content": "Find the values of $[a,b]$ such that $(1,2,1)^{\\top}$ is an eigenvector of the matrix\n $\\left(\n    \\begin{array}{ccc}\n      1 & 2 &1\\\\\n      3 & a & b \\\\\n      a & 0 & b \\\\\n    \\end{array}\n  \\right)\n $. Present the answer as $[a,b]$.",
+        "answer": ""
+    },
+    "294": {
+        "content": "Find the matrix $A$ whose eigenvalues are 2,3,6 and corresponding eigenvectors are\n $\\begin{pmatrix} 1\\\\0 \\\\ -1 \\end{pmatrix}, \\begin{pmatrix}1\\\\1\\\\1 \\end{pmatrix}, \\begin{pmatrix}1\\\\-2\\\\1 \\end{pmatrix}$ respectively.\\\\\nIn your answer, present the matrix in the form of $[a_{11}, a_{12}, a_{13}; a_{21}, a_{22}, a_{23}; a_{31}, a_{32}, a_{33} ]$.",
+        "answer": ""
+    },
+    "295": {
+        "content": "Compute the rank of the matrix\n \\[\\left(\n     \\begin{array}{ccc}\n       1 & 1 & 1 \\\\\n       2 & 0 & 3 \\\\\n       3 & 1 & 4 \\\\\n     \\end{array}\n   \\right)\n \\]",
+        "answer": ""
+    },
+    "296": {
+        "content": "[Rank of a matrix]\n Compute the dimension  of the linear subspace generated by the following vectors\n \\[\\left(\\begin{array}{c}\n     1 \\\\\n     1 \\\\\n     1 \\\\\n    1\n   \\end{array}\\right),\\left(\\begin{array}{c}\n     1 \\\\\n     2 \\\\\n     1 \\\\\n    0\n   \\end{array}\\right), \\left(\\begin{array}{c}\n     0 \\\\\n     -1 \\\\\n     3 \\\\\n    4\n   \\end{array}\\right),\\left(\\begin{array}{c}\n     2 \\\\\n     2 \\\\\n     5 \\\\\n    5\n   \\end{array}\\right).\n \\]",
+        "answer": ""
+    },
+    "297": {
+        "content": "Let the matrix\n$A=\\left(\n     \\begin{array}{ccc}\n       2 & -2 & 1 \\\\\n       4 & -4 & 2 \\\\\n       6 & -6 & 3 \\\\\n     \\end{array}\n   \\right)\n$.\n Compute the product matrix $A^{2024}.$\n\nIn your answer, present the matrix in the form of $[a_{11}, a_{12}, a_{13}; a_{21}, a_{22}, a_{23}; a_{31}, a_{32}, a_{33} ]$.",
+        "answer": ""
+    },
+    "298": {
+        "content": "Compute $|A^{-1}|$ for $A=\\left(\n         \\begin{array}{ccc}\n           1 & 1 & 2 \\\\\n           0 & 1 & 3 \\\\\n           0 & 0 & 1 \\\\\n         \\end{array}\n       \\right).\n$",
+        "answer": ""
+    },
+    "299": {
+        "content": "Compute $|A^{*}|$ for $A=\\left(\n         \\begin{array}{ccc}\n           0 & 1 & 1 \\\\\n           1 & 0 & 1 \\\\\n           1 & 1 &0 \\\\\n         \\end{array}\n       \\right)\n$, where $A^*$ is the adjoint matrix of A.",
+        "answer": ""
+    },
+    "300": {
+        "content": "Suppose that $A\\in R^{3\\times 3}$ is a matrix with $|A|=1,$ compute $|A^*-2A^{-1}|,$ where $A^*$ is the adjoint matrix of A.",
+        "answer": ""
+    },
+    "301": {
+        "content": "Let  $A^*$ denote the adjoint matrix of matrix $A$. \n Suppose that\n $A^*=\\left(\n        \\begin{array}{ccc}\n          1 & 2 & 3 \\\\\n          0 & 1 & 4 \\\\\n          0 & 0 & 1 \\\\\n        \\end{array}\n      \\right)\n $, and the determinant is $|A|=1,$\nFind $A.$\n\nIn your answer, present the matrix in the form of $[a_{11}, a_{12}, a_{13}; a_{21}, a_{22}, a_{23}; a_{31}, a_{32}, a_{33} ]$.",
+        "answer": ""
+    },
+    "302": {
+        "content": "Suppose that the vectors\n$\\left(\n   \\begin{array}{c}\n     1 \\\\      1 \\\\     1 \\\\\n   \\end{array}\n \\right),\n$\n$\\left(\n   \\begin{array}{c}\n     1 \\\\     2 \\\\     0 \\\\\n   \\end{array}\n \\right),\n$$\\left(\n   \\begin{array}{c}\n     0 \\\\     1 \\\\      -1 \\\\\n   \\end{array}\n \\right)\n$ and vectors\n$\\left(\n   \\begin{array}{c}\n     0 \\\\     a \\\\     -1 \\\\\n   \\end{array}\n \\right),\n$\n$\\left(\n   \\begin{array}{c}\n     b \\\\     3 \\\\     1 \\\\\n   \\end{array}\n \\right)\n$ generated the same linear subspace. Compute a and b. Present the answer as $[a,b]$.",
+        "answer": ""
+    },
+    "303": {
+        "content": "Suppose that\n$A=\\left(\n    \\begin{array}{cc}\n      1 & 2 \\\\\n      2& a \\\\\n    \\end{array}\n  \\right)\n$ and $B=\\left(\n    \\begin{array}{cc}\n      0 & 0 \\\\\n      0& b \\\\\n    \\end{array}\n  \\right)$\n  are similar matrixes, find a and b. Present the answer in the form of $[a,b]$.",
+        "answer": ""
+    },
+    "304": {
+        "content": "Suppose there are two matrixes $A\\in \\mathbb{R}^{3\\times 4},B\\in \\mathbb{R}^{4\\times 3}$ satisfying that\n\\[AB=\\left(\n       \\begin{array}{ccc}\n         -9 & 2 & 2 \\\\\n         -20 & 5 & 4 \\\\\n         -35 & 7 & 8 \\\\\n       \\end{array}\n     \\right),\\quad  BA=\\left(\n                         \\begin{array}{cccc}\n                           -14 & 2a-5 & 2 & 6 \\\\\n                           0 & 1 & 0 & 0 \\\\\n                           -15 & 3a-3 & 3 & 6 \\\\\n                           -32 & 6a-7 & 4 & 14 \\\\\n                         \\end{array}\n                       \\right).\n\\]\nCompute a.",
+        "answer": ""
+    },
+    "305": {
+        "content": "Suppose that $A\\in \\mathbb{R}^{3\\times 2}, B\\in \\mathbb{R}^{2\\times 3}$ satisfy\n\\[AB=\\left(\n       \\begin{array}{ccc}\n         8 & 2 & -2 \\\\\n         2 & 5 & 4 \\\\\n         -2 & 4 & 5 \\\\\n       \\end{array}\n     \\right),\n\\]\nCompute $BA$. Present the matrix in the form of $[a_{11},a_{12};a_{21},a_{22}]$.",
+        "answer": ""
+    },
+    "306": {
+        "content": "Compute $a,b,c$ such that the linear equations\n\\[\\left\\{\\begin{array}{l}\n    -2x_1+x_2+ax_3-5x_4=1, \\\\\n    x_1+x_2-x_3+bx_4=4, \\\\\n   3x_1+x_2+x_3+2x_4=c\n  \\end{array}\\right.\n\\]\nand the linear equations\n\\[\\left\\{\\begin{array}{l}\n    x_1+x_4=1, \\\\\n    x_2-2x_4=2, \\\\\n   x_3+x_4=-1.\n  \\end{array}\\right.\n\\]\nhave the same set of solutions. Present the answer as $[a,b,c]$.",
+        "answer": ""
+    },
+    "307": {
+        "content": "Suppose that $\\phi:\\mathbb{R}^{3\\times 3}\\to \\mathbb{R}$ is a mapping which satisfies the following properties\n\\begin{enumerate}\n  \\item $\\phi(AB)=\\phi(A)\\phi(B)$ for any $A,B\\in \\mathbb{R}^N.$ and\n  \\item $\\phi(A)=|A|$ for any diagonal matrix $A.$\n\\end{enumerate}\nCompute $\\phi(A)$ for\n\\[A=\\left(\n      \\begin{array}{ccc}\n        2 & 1 & 1 \\\\\n        1 & 2 &1 \\\\\n        1 & 1 & 2 \\\\\n      \\end{array}\n    \\right)\n\\]",
+        "answer": ""
+    },
+    "308": {
+        "content": "Suppose that $\\psi:\\mathbb{R}^{3\\times 3}\\to \\mathbb{R}$ is a mapping which satisfies the following properties\n\\begin{enumerate}\n  \\item $\\psi(AB)=\\psi(BA)$ for any $A,B\\in \\mathbb{R}^N.$ and\n  \\item $\\psi(A)={\\rm tr}(A)$ for any diagonal matrix $A.$\n\\end{enumerate}\nCompute $\\psi(A)$ for\n\\[A=\\left(\n      \\begin{array}{ccc}\n        1 & 2 & 2 \\\\\n        2 & 1 &2 \\\\\n        2 &2 & 1 \\\\\n      \\end{array}\n    \\right).\n\\]",
+        "answer": ""
+    },
+    "309": {
+        "content": "Compute the limit $\\displaystyle \\lim_{n\\to \\infty}\\dfrac{y_n}{x_n}$, where the two sequence $\\{x_n\\}, \\{y_n\\}$ are defined by \n\\[ \\left(\n    \\begin{array}{c}\n      x_n \\\\\n      y_n \\\\\n    \\end{array}\n  \\right)=A^n\\left(\n    \\begin{array}{c}\n      1 \\\\\n      1 \\\\\n    \\end{array}\n  \\right)\n\\] with  $A=\\left(\n                  \\begin{array}{cc}\n                    0 & 1 \\\\\n                    1 & 1 \\\\\n                  \\end{array}\n                \\right)\n$.",
+        "answer": ""
+    },
+    "310": {
+        "content": "Find the integer $a$ such that $x^2-x+a$ is a factor of $x^{13}+x+90$.",
+        "answer": ""
+    },
+    "311": {
+        "content": "Find the integer coefficient polynomial with the smallest degree that has a root $\\sqrt{2}+\\sqrt{3}$.",
+        "answer": ""
+    },
+    "312": {
+        "content": "Let $A=\\left(\n        \\begin{array}{ccc}\n          3 & 2 & 2\\\\\n          2 & 3 & 2\\\\\n          2 & 2 & 3\\\\\n        \\end{array}\n      \\right)\n$ and $v=(2,1,0)^{\\top}$, find the polynomial $f(x)$ with the least degree such that $f(A)v=0.$",
+        "answer": ""
+    },
+    "313": {
+        "content": "Evaluate the following limit:\n\\begin{equation*}\n    \\lim_{n \\to \\infty} \\left(\\sqrt{n^2+2n-1}-\\sqrt{n^2+3}\\right).\n\\end{equation*}",
+        "answer": ""
+    },
+    "314": {
+        "content": "Find the limit $$\\lim\\limits_{x\\to 1}\\frac{f(2x^2+x-3)-f(0)}{x-1}$$ given $f'(1)=2$ and $f'(0)=-1$.",
+        "answer": ""
+    },
+    "315": {
+        "content": "Evaluate $\\lim\\limits_{x\\to 4}\\frac{x-4}{\\sqrt{x}-2}$.",
+        "answer": ""
+    },
+    "316": {
+        "content": "Find the values of  $a$ such that the function $f(x)$ is continuous on $\\mathbb{R}$, where $f(x)$ is defined as \n\\[\nf(x)=\\begin{cases} 2x-1, &\\text{if } x\\leq 0,\\\\ \na(x-1)^2-3, & \\text{otherwise.}\n\\end{cases}\n\\]",
+        "answer": ""
+    },
+    "317": {
+        "content": "Evaluate $\\lim\\limits_{x\\to 1}\\frac{x^2-1}{x+1}$.",
+        "answer": ""
+    },
+    "318": {
+        "content": "Evaluate the integral $\\displaystyle{\\int_1^e\\ln{x}\\ dx}$.",
+        "answer": ""
+    },
+    "319": {
+        "content": "Let $f(3)=-1$, $f'(3)=0$, $g(3)=2$ and $g'(3)=5$. Evaluate $\\left(\\frac{f}{g}\\right)'(3)$.",
+        "answer": ""
+    },
+    "320": {
+        "content": "Find all value(s) of $x$ at which the tangent line(s) to the graph of $y=-x^2+2x-3$ are perpendicular to the line $y=\\frac12 x-4$.",
+        "answer": ""
+    },
+    "321": {
+        "content": "Let $n\\in \\mathbb{N}$ be fixed. Suppose that $f^{(k)}(0)=1$ and $g^{(k)}(0)=2^k$ for $k=0, 1, 2, \\dots, n$. Find $\\left.\\frac{d^n}{dx^n}(f(x)g(x))\\right |_{x=0}$ when $n=5$.",
+        "answer": ""
+    },
+    "322": {
+        "content": "The function $f(x)$ is defined by \n\\[\nf(x)=\\begin{cases}\n|x|^\\alpha\\sin(\\frac{1}{x}), \\ & x\\neq 0,\\\\\n0, \\ & x=0,\n\\end{cases}\n\\]\nwhere $\\alpha$ is a constant. Find the value of $a$ such that for all $\\alpha>a$,  the function $f(x)$ is continuous at $x=0$.",
+        "answer": ""
+    },
+    "323": {
+        "content": "Evaluate $\\displaystyle{\\int_0^4(2x-\\sqrt{16-x^2})dx}$.",
+        "answer": ""
+    },
+    "324": {
+        "content": "Evaluate the series $\\sum\\limits_{n=1}^\\infty\\frac{1}{(n+1)(n+3)}$.",
+        "answer": ""
+    },
+    "325": {
+        "content": "Evaluate the limit $\\lim\\limits_{x\\to 0}\\frac{(1+x)^{\\frac{1}{x}}-e}{x}$.",
+        "answer": ""
+    },
+    "326": {
+        "content": "Evaluate the series $\\sum\\limits_{n=0}^\\infty \\frac{1}{2n+1}\\left(\\frac12\\right)^{2n+1}$.",
+        "answer": ""
+    },
+    "327": {
+        "content": "Evaluate the limit $\\lim\\limits_{n\\to\\infty}\\sum\\limits_{k=0}^{n-1}\\frac{1}{\\sqrt{n^2-k^2}}$.",
+        "answer": ""
+    },
+    "328": {
+        "content": "Let $\\alpha$ and $\\beta$ be positive constant. If $\\lim\\limits_{x\\to 0}\\displaystyle{\\frac{1}{\\alpha-\\cos{ x}}\\ \\int_0^x\\frac{2t}{\\sqrt{\\beta+t^2}}\\,dt=1}$, determine the values of $\\alpha$ and $\\beta$.",
+        "answer": ""
+    },
+    "329": {
+        "content": "Find the length of the curve of the entire cardioid $r=1+\\cos{\\theta}$, where the curve is given in polar coordinates.",
+        "answer": ""
+    },
+    "330": {
+        "content": "Find the value of the integral $\\displaystyle{\\int_0^1\\frac{1}{(1+x^2)^2}dx}$.",
+        "answer": ""
+    },
+    "331": {
+        "content": "Evaluate the improper integral $\\displaystyle{\\int_0^\\infty \\frac{1}{x^2+2x+2}dx}$.",
+        "answer": ""
+    },
+    "332": {
+        "content": "Find the area of the region outside the circle $r=2$ and inside the cardioid $r=2+2\\cos{\\theta}$, where the curves are given in polar coordinates.",
+        "answer": ""
+    },
+    "333": {
+        "content": "Evaluate $\\displaystyle{\\int_0^\\infty \\frac{1}{1+x^4}\\ dx}$.",
+        "answer": ""
+    },
+    "334": {
+        "content": "Evaluate the iterated integral $\\displaystyle{\\int_0^1dy\\int_y^1(e^{-x^2}+e^x)dx}$.",
+        "answer": ""
+    },
+    "335": {
+        "content": "Assume that $a_n>0$ for all $n\\in\\mathbb{N}$ and the series $\\displaystyle{\\sum_{n=1}^\\infty a_n}$ converges to $4$. Let $\\displaystyle{R_n=\\sum_{k=n}^\\infty a_k}$ for all $n=1, 2,\\dots$. Evaluate $\\displaystyle{\\sum_{n=1}^\\infty \\frac{a_n}{\\sqrt{R_n}+\\sqrt{R_{n+1}}}}$.",
+        "answer": ""
+    },
+    "336": {
+        "content": "For any $a>0$ and $b\\in\\mathbb{R}$, use Sterling's formula\n \\[\n \\lim\\limits_{x\\to\\infty}\\frac{\\Gamma(x+1)}{x^x e^{-x}\\sqrt{2\\pi x}}=1\n \\]\n   to evaluate the limit \n \\[\n  \\lim\\limits_{n\\to\\infty}\\frac{\\Gamma(an+b)}{(n!)^a\\: a^{an+b-\\frac12}n^{b-\\frac12-\\frac{a}{2}}(2\\pi)^{\\frac12-\\frac{a}{2}}},\n \\]\n where $\\Gamma(\\alpha)=\\int_0^\\infty t^{\\alpha-1}e^{-t}dt$ is the gamma function defined for any $\\alpha>0$.",
+        "answer": ""
+    },
+    "337": {
+        "content": "Consider the differential equation $\\frac{dy}{dx} = xy$. Find the value of $y(\\sqrt{2})$ given that $y(0) = 2$.",
+        "answer": ""
+    },
+    "338": {
+        "content": "Solve the following first-order differential equation:\n\\begin{equation*}\n    \\frac{dy}{dx} + 2y = e^{-x}, \\quad y(0) = 1.\n\\end{equation*}",
+        "answer": ""
+    },
+    "339": {
+        "content": "Given three vectors $y_1=(1,0,0)^\\top,y_2=(x,0,0)^\\top$ and $y_3=(x^2,0,0)^\\top$. Does there exist a system of three linear homogeneous ODEs such that all of $y_1,y_2,y_3$ are the solution to this homogeneous ODE system?",
+        "answer": ""
+    },
+    "340": {
+        "content": "Does the ODE $x^2y''+(3x-1)y'+y=0$ have a nonzero power series solution near $x=0$?",
+        "answer": ""
+    },
+    "341": {
+        "content": "Is $y=0$ a singular solution to $y'=\\sqrt{y}\\ln(\\ln(1+y))$?",
+        "answer": ""
+    },
+    "342": {
+        "content": "For the ODE system $x'(t)=y+x(x^2+y^2)$ and $y'(t)=-x+y(x^2+y^2)$, is the equilibrium $(x,y)=(0,0)$ stable?",
+        "answer": ""
+    },
+    "343": {
+        "content": "Assume $x\\in\\mathbb{R}$ and the function $g(x)$ is continuous and $xg(x)>0$ whenever $x\\neq 0$. For the autonomous ODE $x''(t)+g(x(t))=0$, is the equilibrium $x(t)=0$ stable?",
+        "answer": ""
+    },
+    "344": {
+        "content": "What is the number of limit cycles for the ODE system $x'(t)=-2x+y-2xy^2$ and $y'(t)=y+x^3-x^2y$?",
+        "answer": ""
+    },
+    "345": {
+        "content": "Assume $y=y(x,\\eta)$ to be the solution to the initial-value problem $y'(x)=\\sin(xy)$ with initial data $y(0)=\\eta$. Can we assert that $\\frac{\\partial y}{\\partial \\eta}(x,\\eta)$ is always positive?",
+        "answer": ""
+    },
+    "346": {
+        "content": "Does there exists any nonzero function $f(x)\\in L^2(\\mathbb{R}^n)$ such that $f$ is harmonic in $\\mathbb{R}^n$?",
+        "answer": ""
+    },
+    "347": {
+        "content": "Let $u$ be a harmonic function in $\\mathbb{R}^n$ satisfying $|u(x)|\\leq 100(100+\\ln(100+|x|^{100}))$ for any $x\\in\\mathbb{R}^n$. Can we assert $u$ is a constant?",
+        "answer": ""
+    },
+    "348": {
+        "content": "Assume $u(t,x,y)$ solves the wave equation $u_{tt}-u_{xx}-u_{yy}=0$ for $t>0,x,y\\in\\mathbb{R}$ with initial data $u(0,x,y)=0$ and $u_t(0,x,y)=g(x,y)$ where $g(x,y)$ is a compactly supported smooth function. Find the limit $\\lim\\limits_{t\\to+\\infty}t^{1/4}|u(t,x,y)|$ if it exists.",
+        "answer": ""
+    },
+    "349": {
+        "content": "Consider the transport equation $u_t+2u_x=0$ for $t>0,x>0$ with initial data $u(0,x)=e^{-x}$ for $x>0$ and boundary condition $u(t,0)=A+Bt$ for $t>0$, where $A,B$ are two constants. Find the values of $A,B$ such that there is a solution $u(t,x)$ is $C^1$ in $\\{t\\geq 0,x\\leq 0\\}$ to the equation. Present the answer in the form of [A,B].",
+        "answer": ""
+    },
+    "350": {
+        "content": "In how many ways can you arrange the letters in the word ``INTELLIGENCE''?",
+        "answer": ""
+    },
+    "351": {
+        "content": "Suppose that $A$, $B$, and $C$ are mutually independent events and that $P(A) = 0.2$, $P(B) = 0.5$, and $P(C) = 0.8$. Find the probability that exactly two of the three events occur.",
+        "answer": ""
+    },
+    "352": {
+        "content": "A club with 30 members wants to have a 3-person governing board (president, treature, secretary). In how many ways can this board be chosen if Alex and Jerry don\u2019t want to serve together?",
+        "answer": ""
+    },
+    "353": {
+        "content": "There are seven pairs of socks in a drawer. Each pair has a different color. You randomly draw one sock at a time until you obtain a matching pair. Let the random variable $N$ be the number of draws. Find the value of $n$ such that $P(N=n)$ is the maximum.",
+        "answer": ""
+    },
+    "354": {
+        "content": "A pharmacy receives 2/5 of its flu vaccine shipments from Vendor A and the remainder of its shipments from Vendor B. Each shipment contains a very large number of vaccine vials. For Vendor A\u2019s shipments, 3\\% of the vials are ineffective. For Vendor B, 8\\% of the vials are ineffective. The hospital tests 25 randomly selected vials from a shipment and finds that two vials are ineffective. What is the probability that this shipment came from Vendor A?",
+        "answer": ""
+    },
+    "355": {
+        "content": "Let $X_k$ be the time elapsed between the $(k-1)^{\\rm th}$ accident and the $k^{\\rm th}$ accident. Suppose $X_1, X_2, \\ldots $ are independent of each other. You use\n    the exponential distribution with probability density function $f(t) = 0.4e^{-0.4t}$, $t>0$ measured in minutes to model $Y_k$. What is the probability of at least two accidents happending in a five minute period.",
+        "answer": ""
+    },
+    "356": {
+        "content": "In modeling the number of claims filed by an individual under an insurance policy during a two-year period, an assumption is made that for all integers $n \\geq 0$, $p(n + 1) = 0.1p(n)$ where $p(n)$ denotes the probability that there are $n$ claims during the period. Calculate the expected number of claims during the period.",
+        "answer": ""
+    },
+    "357": {
+        "content": "An ant starts at $(1,1)$ and moves in one-unit independent steps with equal probabilities of 1/4 in each direction: east, south, west, and north. Let $W$ denote the east-west position and $S$ denote the north-south position after $n$ steps. Find $\\mathbb{E}[e^{\\sqrt{W^2+S^2}}]$ for $n=3$.",
+        "answer": ""
+    },
+    "358": {
+        "content": "Let the two random variables $X$ and $Y$ have the joint probability density function $f(x,y)=cx(1-y)$ for $0<y<1$ and $0<x<1-y$, where $c>0$ is a constant. Compute $P(Y<X|X=0.25)$.",
+        "answer": ""
+    },
+    "359": {
+        "content": "Three random variables $X, Y, Z$ are independent, and their moment generating functions are:\n    $$M_X(t) = (1-3t)^{-2.5}, M_Y(t) = (1-3t)^{-4}, M_Z(t) = (1-3t)^{-3.5}.$$\n    Let $T=X+Y+Z$. Calculate $\\mathbb{E}[T^4]$.",
+        "answer": ""
+    },
+    "360": {
+        "content": "The distribution of the random variable $N$ is Poisson with mean $\\Lambda$. The parameter $\\Lambda$ follows a prior distribution with the probability density function\n    $$f_{\\Lambda}(\\lambda) = \\frac{1}{2} \\lambda^2 e^{-\\lambda}, \\lambda>0.$$\n   Given that we have obtained two realizations of $N$ as $N_1 = 1$, $N_2 = 0$, compute the probability that the next realization is greater than 1. (Assume the realizations are independent of each other.)",
+        "answer": ""
+    },
+    "361": {
+        "content": "The minimum force required to break a type of brick is normally distributed with mean 195 and variance 16. A random sample of 300 bricks is selected.\n    Estimate the probability that at most 30 of the selected bricks break under a force of 190.",
+        "answer": ""
+    },
+    "362": {
+        "content": "Find the variance of the random variable $X$ if the cumulative distribution function of $X$ is\n    $$F(x) = \\begin{cases} 0, & {\\rm if} \\ x < 1, \\\\ 1 - 2e^{-x}, & {\\rm if} \\ x \\geq 1. \\end{cases}$$",
+        "answer": ""
+    },
+    "363": {
+        "content": "The hazard rate function for a continuous random variable $X$ is defined as $h(x) = \\frac{f(x)}{1-F(x)}$, where $f(\\cdot)$ and $F(\\cdot)$ are the probability density\n  function and cumulative distribution function of $X$ respectively. Now you are given $h(x) = 2e^{x} + 1, x>0$. Find $P(X>1)$.",
+        "answer": ""
+    },
+    "364": {
+        "content": "Suppose the random variable $X$ has an exponential distribution with mean $1$. Find $\\min_{x \\in \\mathbb{R}} \\mathbb{E}|X-x|$.",
+        "answer": ""
+    },
+    "365": {
+        "content": "The joint probability density function for the random variables $X$ and $Y$ is \n      $$f(x, y) = 6e^{-(2x+3y)}, \\ x>0, \\ y>0.$$\n    Calculate the variance of $X$ given that $X>1$ and $Y>2$.",
+        "answer": ""
+    },
+    "366": {
+        "content": "Consider the Markov chain $X_n$ with state space $Z = \\{0, 1, 2, 3, \\ldots\\}$. The transition probabilities are \n     $$p(x, x+2) = \\frac{1}{2}, \\ p(x, x-1) = \\frac{1}{2}, \\ x>0,$$\n     and $p(0, 2)=\\frac{1}{2}, \\ p(0, 0)=\\frac{1}{2}$. Find the probability of ever reaching state 0 starting at $x=1$.",
+        "answer": ""
+    },
+    "367": {
+        "content": "The two random variables $X$ and $Y$ are independent and each is uniformly distributed on $[0, a]$, where $a>0$ is a constant. Calculate the covariance of $X$ and $Y$ given that $X+Y<0.5a$ when $a^2 = 2.88$.",
+        "answer": ""
+    },
+    "368": {
+        "content": "There are $N$ balls in two boxes in total. We pick one of the $N$ balls at random and move it to the other\n  box. Repeat this procedure. Calculate the long-run probability that there is one ball in the left box.",
+        "answer": ""
+    },
+    "369": {
+        "content": "Let $W_t$ be a standard Brownian motion. Find the probability that $W_t = 0$ for some $t \\in [1, 3]$.",
+        "answer": ""
+    },
+    "370": {
+        "content": "Consider a random walk on the integers with probability $1/3$ of moving to the right and probability $2/3$\n   of moving to the left. Let $X_n$ be the number at time $n$ and assume $X_0 = K > 0$. Let $T$ be the first time\n   that the random walk reaches either 0 or $2K$. Compute the probability $P(X_T = 0)$ when $K=2$.",
+        "answer": ""
+    },
+    "371": {
+        "content": "Given the data set $ \\{3, 7, 7, 2, 5\\} $, calculate the sample mean $\\mu$ and the sample standard deviation $\\sigma$. Present the answer as $[\\mu,\\sigma]$.",
+        "answer": ""
+    },
+    "372": {
+        "content": "A sample of 30 observations yields a sample mean of 50. Assume the population standard deviation is known to be 10. When testing the hypothesis that the population mean is 45 at the 5\\% significance level, should we accept the hypothesis?",
+        "answer": ""
+    },
+    "373": {
+        "content": "Given points $ (1, 2) $, $ (2, 3) $, $ (3, 5) $, what is the slope of the least squares regression line?",
+        "answer": ""
+    },
+    "374": {
+        "content": "A random sample of 150 recent donations at a certain blood bank reveals that 76 were type A blood. Does this suggest that the actual percentage of type A donation differs from 40\\%, the percentage of the population having type A blood, at a significance level of 0.01?",
+        "answer": ""
+    },
+    "375": {
+        "content": "The accompanying data on cube compressive strength (MPa) of concrete specimens are listed as follows:\n\t\t\\[\n\t\t112.3  \\quad   97.0  \\quad  92.7  \\quad  86.0  \\quad  102.0  \\quad  99.2  \\quad  95.8  \\quad  103.5  \\quad  89.0  \\quad  86.7.\n\t\t\\]\n\t\tAssume that the compressive strength for this type of concrete is normally distributed. Suppose the concrete will be used for a particular application unless there is strong evidence that the true average strength is less than 100 MPa. Should the concrete be used under significance level 0.05?",
+        "answer": ""
+    },
+    "376": {
+        "content": "Suppose we have a sample from normal population as follows.\n\t\t\\[\n\t\t107.1   \\quad   109.5   \\quad   107.4   \\quad  106.8   \\quad  108.1\n\t\t\\]\n\t\tFind the sample mean and sample standard deviation, and construct a 95\\% confidence interval for the population mean.",
+        "answer": ""
+    },
+    "377": {
+        "content": "In a survey of 2000 American adults, 25\\% said they believed in astrology. Calculate a 99\\% confidence interval for the proportion of American adults believing in astrology.",
+        "answer": ""
+    },
+    "378": {
+        "content": "Two new drugs were given to patients with hypertension. The first drug lowered the blood pressure of 16 patients by an average of 11 points, with a standard deviation of 6 points. The second drug lowered the blood pressure of 20 other patients by an average of 12 points, with a standard deviation of 8 points. Determine a 95\\% confidence interval for the difference in the mean reductions in blood pressure, assuming that the measurements are normally distributed with equal variances.",
+        "answer": ""
+    },
+    "379": {
+        "content": "The ages of a random sample of five university professors are 39, 54, 61, 72, and 59. Using this\n\t\tinformation, find a 99\\% confidence interval for the population variance of the ages of all professors at the university, assuming that the ages of university professors are normally distributed.",
+        "answer": ""
+    },
+    "380": {
+        "content": "Suppose we have two groups of data as follows\n\t\t\\begin{equation*}\n\t\t\t\\begin{split}\n\t\t\t\t\\text{\\rm Group 1: }\\quad   &32 \\quad 37 \\quad 35 \\quad 28 \\quad 41 \\quad 44 \\quad 35 \\quad 31 \\quad 34\\\\\n\t\t\t\t\\text{\\rm Group 2: }  \\quad &35 \\quad 31 \\quad 29 \\quad 25 \\quad 34 \\quad 40 \\quad 27 \\quad 32 \\quad 31\\\\\n\t\t\t\\end{split}\n\t\t\\end{equation*}\n\tIs there sufficient evidence to indicate a difference in the true means of the two groups at level $\\alpha=0.05$?",
+        "answer": ""
+    },
+    "381": {
+        "content": "Let $X$ be one observation from the pdf\n\t\\[\n\tf(x|\\theta) = \\left(\\frac{\\theta}{2}\\right)^{|x|}(1-\\theta)^{1-|x|}, \\quad x=-1, 0, 1; \\ \\ 0\\le \\theta \\le 1.\n\t\\]\n\tIs $X$ a complete statistic?",
+        "answer": ""
+    },
+    "382": {
+        "content": "Let $X_1, \\ldots, X_n$ be an i.i.d. random sample with probability density function (pdf) \n\t\\begin{equation*}\n\t\tf(x|\\theta) = \\begin{cases}\n\t\t\t\\frac{2}{\\sqrt{\\pi \\theta}}e^{-\\frac{x^2}{\\theta}}, \\quad &x>0, \\\\\n\t\t\t0, \\quad &\\text{otherwise};\n\t\t\\end{cases}\t\n\t\\end{equation*}\n\twhere $\\theta>0$. What is the Cramer-Rao Lower Bound for estimating $\\theta$?",
+        "answer": ""
+    },
+    "383": {
+        "content": "Let $X_1, X_2, \\ldots, X_n$ be an i.i.d. random sample from the population density (i.e., Exp($\\frac{1}{\\theta}$))\n\t\n\t\\[ f(x|\\theta)=\\begin{cases} \n\t\t\\theta e^{-\\theta x}, &  x>0; \\\\\n\t\t0, &  \\text{\\rm otherwise}.\n\t\\end{cases} \\qquad \\text{\\rm where } \\theta>0.\n\t\\]\n\tLet $\\hat{\\theta}_n$ be the maximal likelihood estimator of $\\theta$. What is the variance of the asymptotic distribution of the limiting distribution of $\\sqrt{n}(\\hat{\\theta}_n - \\theta)$?",
+        "answer": ""
+    },
+    "384": {
+        "content": "Let $U_1, U_2, \\ldots$, be i.i.d. ${\\rm Uniform}(0,1)$ random variables and let $X_n=\\left(\\prod_{k=1}^{n} U_k\\right)^{-1/n}$. What is the variance of the asymptotic distribution of $\\frac{\\sqrt{n}(X_n-e)}{e}$ as $n\\to \\infty$?",
+        "answer": ""
+    },
+    "385": {
+        "content": "Let $X$ be a single observation from ${\\rm Unifrom}(0,\\theta)$ with density $f(x|\\theta)=1/\\theta I(0<x<\\theta)$, where $\\theta>0$. Does there exist Cramer-Rao Lower Bound for estimating $\\theta$?",
+        "answer": ""
+    },
+    "386": {
+        "content": "Let $X_1, \\ldots, X_n$ be i.i.d. sample from ${\\rm Gamma}(\\alpha,\\beta)$ with density function $f(x|\\alpha,\\beta) = \\frac{1}{\\Gamma(\\alpha)\\beta^\\alpha}x^{\\alpha-1}e^{-x/\\beta}$, $x>0$, $\\alpha,\\beta>0$, where $\\alpha$ is known and $\\beta$ is unknown. What is the value of the uniform minimum variance unbiased estimator (UMVUE) for $1/\\beta$ when $n\\alpha = 1$?",
+        "answer": ""
+    },
+    "387": {
+        "content": "Let $X_1, X_2, \\ldots, X_n$ be i.i.d. sample from the population density\n\t\\[\n\tf(x|\\theta) = \\frac{2}{\\theta}xe^{-x^2/\\theta} I(x>0), \\quad \\theta>0.\n\t\\] \nConsider using appropriate chi-square distribution to find the size $\\alpha$ uniformly most powerful (UMP) test for $H_0: \\theta\\le \\theta_0$ vs. $H_1: \\theta> \\theta_0$. Let $\\chi_{2n, \\alpha}^2$ is the value such that $P(\\chi_{2n}^2 > \\chi_{2n, \\alpha}^2) = \\alpha$ and $\\chi_{2n}^2$ is the chi-squared distribution with degree of freedom $2n$. Should the UMP test reject $H_0$ if $\\sum_{i=1}^n X_i^2 > \\frac{\\theta_0}{2} \\chi_{2n, \\alpha}^2$?",
+        "answer": ""
+    }
+}

@@ -1,0 +1,16 @@
+name: math_gaic
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+dependencies:
+  - python=3.11
+  - openai
+  - python-dotenv
+  - tqdm
+  - numpy
+  - scipy
+  - pandas
+  - sympy
+  - matplotlib
+  - func_timeout
