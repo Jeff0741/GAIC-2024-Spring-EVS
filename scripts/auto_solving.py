@@ -27,12 +27,14 @@ if __name__ == "__main__":
         question = info["content"]
         
         if i < 100:
-            result = solving_method_1(question)
+            local_result = solving_method_1(question)
         else:
             if classify_question(question):
-                result = solving_method_3(question)
+                local_result = solving_method_3(question)
             else:
-                result = solving_method_2(question)
+                local_result = solving_method_2(question)
+    
+        result[order] = local_result
                 
         save_json(result, result_save_path)
     
