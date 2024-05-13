@@ -4,11 +4,11 @@ load_dotenv()
 
 import json
 
-from agents.BaseAgent import OpenaiAgent
-from agents.prompts import hint_adapting_template, hint_choosing_template, hint_solve_template
+from src.experts.expert_4.agents.BaseAgent import OpenaiAgent
+from src.experts.expert_4.agents.prompts import hint_adapting_template, hint_choosing_template, hint_solve_template
 
 # load hints
-with open('agents/all_hints.json', 'r') as f:
+with open('src/experts/expert_4/agents/all_hints.json', 'r') as f:
     all_hints = json.load(f)
     
 class MathExpert4:

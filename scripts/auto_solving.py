@@ -1,6 +1,6 @@
 
 
-from copy impory deepcopy
+from copy import deepcopy
 import time
 import os
 
@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 from src.file_io_utils import read_json, save_json
 from src.steps.classify_pi import classify_question
-from scripts.solving_methods import solving_method_1, solving_method_2, solving_method_3, solving_methods_4
+from scripts.solving_methods import solving_method_1, solving_method_2, solving_method_3, solving_method_4
 
 
 load_dotenv()
