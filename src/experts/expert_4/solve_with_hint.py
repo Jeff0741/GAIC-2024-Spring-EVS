@@ -13,7 +13,7 @@ with open('src/experts/expert_4/agents/all_hints.json', 'r') as f:
     
 class MathExpert4:
     
-    def __init__(self, llm='gpt-4-0125-preview', all_hints=all_hints) -> None:
+    def __init__(self, llm='gpt-4-turbo', all_hints=all_hints) -> None:
         self.all_hints = all_hints
         self.hint_choosing_agent = OpenaiAgent(template=hint_choosing_template, llm=llm)
         self.hint_adapting_agent  = OpenaiAgent(template=hint_adapting_template, llm=llm)

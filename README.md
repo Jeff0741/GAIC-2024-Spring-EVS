@@ -1,4 +1,4 @@
-# GAIC-Spring-2024-VE
+# GAIC-Spring-2024-EVS
 
 This repository is dedicated to housing the code for the competition "2024 GAIC Maths Questions and Solutions Now Available for Download" organized by AGI Odyssey in 2024. You can access the competition [here](https://www.agiodyssey.org/#/Olympic).
 
