@@ -4,6 +4,7 @@ from src.experts.expert_1.expert_1 import expert_1
 from src.experts.expert_2.expert_2 import expert_2
 from src.experts.expert_3.expert_3 import expert_3
 from src.experts.expert_4.expert_4 import expert_4
+from src.experts.expert_5.expert_5 import expert_5
 from src.steps.voting import voting
 from src.steps.simplify import simplify_answer
 
@@ -44,4 +45,5 @@ def solving_method_3(question: str) -> str:
 
     return final_answer
 
-
+def solving_method_4(question: str) -> str:
+    return expert_5(question)

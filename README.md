@@ -73,7 +73,7 @@ File Structure
 ### What we du in this competition:
 
 1. We select different solving methods for different problems.
-2. We have crafted more professional prompts for some challenging problems. (The first 100 problems use solving_method_1)
+2. We have crafted more professional prompts for some challenging problems. (The first 100 problems use solving_method_1 or solving_method_4)
 3. For statistical problems that require table lookup, we have adopted a specialized table lookup method. (We use solving_method_3)
 4. For the remaining problems, we have adopted a more generalized method. (We use solving_method_2)
 
@@ -90,7 +90,7 @@ python scripts/auto_solving.py
 ```
 
 We actually employ parallel processing with 10 processes to handle these tasks. 
-Sometimes, the program might get stuck, and we utilize scripts/hybrid_solving.py to address the stalled tasks.
+Sometimes, the program might get stuck, and we utilize `scripts/hybrid_solving.py` to address the stalled tasks.
 
 ### File Introduction
 
